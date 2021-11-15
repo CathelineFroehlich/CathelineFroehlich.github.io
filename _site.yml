@@ -8,11 +8,13 @@ navbar:
       href: projects.html
     - text: "In The News"
       href: news.html
-    - text: "Google Scholar"
-      href: https://scholar.google.com.au/citations?user=lem8ckUAAAAJ&hl=en
+    - text: "Publications"
+      href: publications.html
     - text: "CV"
       href: CV.html
   right:
+    - icon: fa-google fa-lg
+      href: https://scholar.google.com.au/citations?user=lem8ckUAAAAJ&hl=en
     - icon: fa-envelope fa-lg
       href: mailto:<catheline.froehlich@gmail.com>
     - icon: fa-twitter fa-lg

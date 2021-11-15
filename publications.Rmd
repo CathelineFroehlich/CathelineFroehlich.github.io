@@ -1,5 +1,5 @@
 ---
-title: "RESEARCH PROJECTS"
+title: "PUBLICATIONS"
 output:
   html_document:
     toc: true
@@ -9,110 +9,27 @@ output:
     toc_depth: 1
     #code_folding: hide
 ---
+![](images/secondbanner.jpg)
 
-![](images/slide3s.png)
+#PUBLICATIONS
 
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(message=FALSE,warning=FALSE, cache=TRUE)
-```
+[9.	Froehlich, C.Y.M., Heatwole, S.J., Klanten, O.S., and Wong, M.Y.L. In review. To swim or not to swim: To swim or not to swim: decisions of translocated coral gobies in relation to habitat health, size, saturation, and familiarity.](https://www.biorxiv.org/content/10.1101/2021.06.17.448906v1)
+[8.	Froehlich, C.Y.M., Klanten, O.S., Hing, M.L., Dowton, M., and Wong, M.Y.L. 2021. Uneven declines between corals and cryptobenthic fish symbionts from multiple disturbances. Scientific Reports (impact factor 4.379, quartile 1). doi: 10.1038/s41598-021-95778-x.](https://www.nature.com/articles/s41598-021-95778-x#article-info)
+[7.	Froehlich, C.Y.M., Lee, A., Oquita, R., Cintra-Buenrostro, C.E., and Shively, J.D. 2021. Reproductive characteristics of Red Snapper Lutjanus campechanus on artificial reefs in different jurisdictions. Regional Studies in Marine Science (impact factor 1.63) 47:101936. doi: 10.1016/j.rsma.2021.101936.](https://www.sciencedirect.com/science/article/abs/pii/S2352485521003285)
+[6. 	Froehlich, C.Y.M., Garcia, A., Cintra-Buenrostro, C.E., Hicks, D.W., and Kline, R.J. 2021. Structural differences alter residency and depth patterns of red snapper (Lutjanus campechanus) at two artificial reefs. Fisheries Research (impact factor 1.874, quartile 1 for aquatic science) 242:106043. doi: 10.1016/j.fishres.2021.106043.](https://www.sciencedirect.com/science/article/abs/pii/S0165783621001715)
+[5.	Rueger T., Branconi, R., Froehlich, C.Y.M., Heatwole, S.J., Wong, M.Y.L., and Buston, P.M. 2021. The next frontier in understanding the evolution of coral reef fish societies. Frontiers in Marine Science (impact factor 3.07, quartile 1 for aquatic science). 8:665780. doi: 10.3389/fmars.2021.665780.](https://www.frontiersin.org/articles/10.3389/fmars.2021.665780/full)
+[4. 	Froehlich, C.Y.M., Garcia, A., and Kline, R.J. 2019. Daily movement patterns of red snapper (Lutjanus campechanus) on a large artificial reef. Fisheries Research (impact factor 1.874, quartile 1 for aquatic science) 209:49-57. doi: 10.1016/j.fishres.2018.09.006.](https://linkinghub.elsevier.com/retrieve/pii/S0165783618302418)
+[3. 	Froehlich, C.Y.M., Lee, A., Oquita, R., Cintra-Buenrostro, C.E., Shively, J.D., and Shipley, J.B. 2018. A comparison of population dynamics from Red Snapper associated with inshore and offshore artificial reefs in the northwestern Gulf of Mexico. In: Bortone SA, editor. Marine artificial reef research and development: integrating fisheries management objectives. USA: Transactions of the American Fisheries Society (impact factor: 1.406, quartile 1 for aquatic science), 68.](https://www.researchgate.net/publication/329718111_A_comparison_of_population_dynamics_from_Red_Snapper_associated_with_inshore_and_offshore_artificial_reefs_in_the_northwestern_Gulf_of_Mexico)
+[2.	Arney, R.N., Froehlich, C.Y.M., and Kline, R.J. 2017. Recruitment patterns of juvenile fish at an artificial reef in the Gulf of Mexico. Marine and Coastal Fisheries: Dynamics, Management, and Ecosystem Science (impact factor 1.177, quartile 1 for aquatic science). 9:79-92. doi: 10.1080/19425120.2016.1265031.](https://www.tandfonline.com/doi/full/10.1080/19425120.2016.1265031)
+[1.	Froehlich, C.Y.M., and Kline, R.J. 2015. Using fish population metrics to compare the effects of artificial reef density. PLoS One (impact factor 2.806, quartile 1 for aquatic science). 10(9):e0139444. doi: 10.1371/journal.pone.0139444.](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0139444)
 
-# Linking Animal Behaviour, Mutualisms and Environmental Change
+#OTHER PUBLICATIONS
 
-<div class="row" style="padding-top: 30px;">
-<div class="col-sm-6">
-
-As environmental disturbances become more intense and frequent, there are many changes that have been documented at population levels and ecosystem levels. We have yet to uncover how such disturbances affect the behaviour of animals, which is critical for the maintenance of many populations and could prove detrimental to particular species or even groups of species. Importantly, many animal relationships exist among different organisms, and mutualistic relationships are key for the maintenance of several ecosystems. Accordingly, changes to animal behaviours and ecological relationships may have flow-on effects on ecosystems. For my research, I aim to delve deeper into the potential environmental consequences on animal behaviour for mutualistic organisms. I use a combination of observational, manipulative, and phylogenetic approaches to link animal behaviour, habitat use, and environmental change for coral-dwelling gobies, which live exclusively in some of the corals most susceptible to coral damage and death from cyclones and bleaching-induced heatwaves.
-
-Collaborators: Marian Y.L. Wong, O. Selma Klanten, Siobhan J. Heatwole, Martin L. Hing, Mark Dowton
-
-
-</div>
-<div class="col-sm-6">
-
-<a href = "https://www.nature.com/articles/s41598-021-95778-x#article-info">
-![](images/DNAExtract_TaggedGoby.jpg)
-
-</a>
-
-<a href = "https://www.biorxiv.org/content/10.1101/2021.06.17.448906v1">
-![](images/104466995_10224587592503762_5668751840803121386_o.jpg)
-</a>
-
-</div>
-</div>
-
-# Social Behaviour of Coral Reef Fishes
-
-<div class="row" style="padding-top: 30px;">
-<div class="col-sm-6">
-
-<a href = "https://www.frontiersin.org/articles/10.3389/fmars.2021.665780/full"> 
-![](images/GobyAnemonefishMutualismSociality.jpg)
-
-![](images/slide1s.png)
-</a>
-
-</div>
-<div class="col-sm-6">
-
-Animals often live in groups temporarily or permanently for a variety of ecological, social, and life history reasons. For several marine fishes, size hierarchies are established to maintain the peace in which the two biggest individuals breed and the rest control their growth and forgo reproduction to maintain group membership. I aim to uncover key evolutionary mechanisms for the maintenance of group membership and size hierarchies in such animals. Two fish groups that are of particular focus for my research are coral-dwelling gobies and anemonefishes.
-
-Collaborators: Marian Y.L. Wong, O. Selma Klanten, Siobhan J. Heatwole, Martin L. Hing, Theresa Rueger, Peter M. Buston, Rebecca Branconi
-
-</div>
-</div>
-
-# Fisheries Management and Animal Behaviour
-
-<div class="row" style="padding-top: 30px;">
-<div class="col-sm-6">
-
-Over decades and centuries, fisheries have changed fish populations and we are only beginning to understand the degree of these impacts. Management agencies have used available monitoring data to attempt to remove overfishing stress for many taxa, yet many species are continuing to experience excessive fishing pressure. Many fish are exhibiting behavioural changes, size truncations and lower reproductive capacity from fishing pressure, which have detrimental consequences on population maintenance and conservation. Accordingly, my research aims to understand how fish movement, size and growth, and reproduction are affected by fisheries, and to provide suggestions to improve management of these fisheries. I have particular experience with red snapper, <i>Lutjanus campechanus</i>.
-
-Collaborators: Richard J. Kline, Andres Garcia, Carlos E. Cintra-Buenrostro, Adam M. Lee, Ramiro Oquita, David W. Hicks, J. Dale Shively, J. Brooke Shipley
-
-</div>
-<div class="col-sm-6">
-
- <a href = "https://www.sciencedirect.com/science/article/pii/S2352485521003285"> 
- ![](images/10014876_10152148903631794_1171996106372918196_o.jpg)
- </a>
-
-<a href = "https://www.sciencedirect.com/science/article/abs/pii/S0165783621001715?dgcid=rss_sd_all"> 
-![](images/54ea572b32a96image.jpg)
-</a>
-[Images by Seth Patterson](https://www.flickr.com/photos/spatterd/)
-
-</div>
-</div>
-
-# Artificial Reef Research
-
-<div class="row" style="padding-top: 30px;">
-<div class="col-sm-6">
-
-<a href = "https://www.tandfonline.com/doi/full/10.1080/19425120.2016.1265031"> 
-![](images/slide2s.png)
- </a>
- 
- <a href = "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0139444"> 
-![](images/Culverts. picture taken by seth patterson.jpg)
-</a>
-[Image by Seth Patterson](https://www.flickr.com/photos/spatterd/)
-
-</div>
-<div class="col-sm-6">
-
-Artificial reefs (i.e., man-made reefs) are critical habitat for many marine taxa that live in environments with limited natural habitat and/or degraded habitat. Although artificial reefs have been deployed or accidentally created (e.g. through shipwrecks) for decades and centuries, we have yet to understand the optimal arrangements and structural characteristics necessary for artificial reefs to mimic natural habitat. Accordingly, my research aims to identify optimal habitat characteristics and formations for the deployment of artificial reef habitat that effectively mimics natural habitat.
-
-Collaborators: Richard J. Kline, Andres Garcia, Carlos E. Cintra-Buenrostro, Adam M. Lee, Rachel N. Arney, Ramiro Oquita, David W. Hicks
-
-
-</div>
-</div>
-
-# Teamwork Makes the Dream Work
-
-None of this could be done without the helpful team of collaborators, colleagues, field assistants, boat captains, volunteers, reef station managers, local help, and our support system. Thank you everyone!
-
-![](images/slide4s.png)
+[8. 	Froehlich, C., Wong, M., Klanten, O.S. September 2021. Photos from the field: why losing these tiny, loyal fish to climate change spells disaster for coral. The Conversation. https://theconversation.com/photos-from-the-field-why-losing-these-tiny-loyal-fish-to-climate-change-spells-disaster-for-coral-167119](https://theconversation.com/photos-from-the-field-why-losing-these-tiny-loyal-fish-to-climate-change-spells-disaster-for-coral-167119)
+7.	Froehlich, C., Goyen, S., Hoey, A. August 2020. The ACRS comments on revisions of AS/NZS scientific diving standards. Australian Coral Reef Society submission to the Standards Australia Diving Committee.
+[6.	Wolfe, K., & Froehlich, C. August 2020.The ACRS calls for a reassessment of the East Coast Sea Cucumber fishery. Australian Coral Reef Society submission to Department of Agriculture, Water and the Environment regarding Sea Cucumber Fishery (East Coast) – Status report for reassessment.](https://australiancoralreefsociety.org/the-acrs-calls-for-a-reassessment-of-east-coast-sea-cucumber-fishery/)
+[5.	Suggett, D., Froehlich, C., Scott, A., Sims, C., Ricardo, G., Torda, G., Cumming, G., & Lewis, B. July 2020. The ACRS comments on the Draft Policy on Great Barrier Reef Interventions. Australian Coral Reef Society submission to the Great Barrier Reef Marine Park Authority.](https://australiancoralreefsociety.org/2251-2/)
+[4.	Steinberg, R., Froehlich, C., & Turnbull, J. April 2020. Listing the Cauliflower Soft Coral (Dendronephthya australis) as an Endangered Species. Australian Coral Reef Society submission to the NSW Fisheries Scientific Committee.](https://australiancoralreefsociety.org/the-acrs-supports-listing-the-cauliflower-soft-coral-as-an-endangered-species/)
+[3.	Hamylton, S., & Froehlich, C. December 2019. Great Barrier Reef outlook report highlights the urgent need to curb carbon emissions and improve water quality. Australian Coral Reef Society Reef Matters: ACRS commentary on the 2019 Great Barrier Reef Outlook Report.](https://australiancoralreefsociety.org/great-barrier-reef-outlook-report-highlights-the-urgent-need-to-curb-carbon-emissions-and-improve-water-quality/)
+[2.	Froehlich, C. & Brodie, J. November 2019. The Great Barrier Reef needs evidence-based regulation of farm practices that impact water quality. Australian Coral Reef Society submission to the Senate Rural and Regional Affairs and transport References Committee.](https://australiancoralreefsociety.org/calling-for-evidence-based-regulation-of-farm-practices-that-impact-water-quality-in-the-great-barrier-reef/)
+[1.	Fordyce, G., Goyen, S., & Froehlich, C. September 2019. Submission to the Australian Maritime Safety Authority on the proposed new Marine Order 505. Australian Coral Reef Society submission to the Australian Maritime Safety Authority.](https://australiancoralreefsociety.org/the-acrs-requests-that-exemption-15-be-retained-in-the-proposed-new-marine-order-505/)
