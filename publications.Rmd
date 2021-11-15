@@ -39,7 +39,7 @@ knitr::opts_chunk$set(message=FALSE,warning=FALSE, cache=TRUE)
 
 [8. 	Froehlich, C., Wong, M., Klanten, O.S. September 2021. Photos from the field: why losing these tiny, loyal fish to climate change spells disaster for coral. The Conversation. https://theconversation.com/photos-from-the-field-why-losing-these-tiny-loyal-fish-to-climate-change-spells-disaster-for-coral-167119](https://theconversation.com/photos-from-the-field-why-losing-these-tiny-loyal-fish-to-climate-change-spells-disaster-for-coral-167119)
 
-7.	Froehlich, C., Goyen, S., Hoey, A. August 2020. The ACRS comments on revisions of AS/NZS scientific diving standards. Australian Coral Reef Society submission to the Standards Australia Diving Committee.
+[7.	Froehlich, C., Goyen, S., Hoey, A. August 2020. The ACRS comments on revisions of AS/NZS scientific diving standards. Australian Coral Reef Society submission to the Standards Australia Diving Committee.](https://australiancoralreefsociety.org/library/submissions/)
 
 [6.	Wolfe, K., & Froehlich, C. August 2020.The ACRS calls for a reassessment of the East Coast Sea Cucumber fishery. Australian Coral Reef Society submission to Department of Agriculture, Water and the Environment regarding Sea Cucumber Fishery (East Coast) – Status report for reassessment.](https://australiancoralreefsociety.org/the-acrs-calls-for-a-reassessment-of-east-coast-sea-cucumber-fishery/)
 
