@@ -10,6 +10,8 @@ navbar:
       href: news.html
     - text: "Publications"
       href: publications.html
+    - text: "Opportunities"
+      href: opportunities.html
     - text: "CV"
       href: CV.html
   right:
