@@ -111,6 +111,28 @@ Collaborators: Richard J. Kline, Andres Garcia, Carlos E. Cintra-Buenrostro, Ada
 </div>
 </div>
 
+
+# Wildcat Ecology, Animal Movement, Habitat Use and Road Mortality Ecology
+
+<div class="row" style="padding-top: 30px;">
+<div class="col-sm-6">
+
+Wildcats tend to move extensively throughout their life, and young males are especially known for huge migrations. Due to habitat fragmentation, and conflict within males for female breeding rights, wildcats often cross roads unsuccessfully and become road kill. Projects I assisted with investigated how wildcats use their habitat and what ways can we improve our roads to limit road mortality. We worked closely with government officials to manage road construction and reduce road mortality. Our particular focus was on ocelots and bobcats, their ecology, and the level of competition between them.
+
+Collaborators: Richard J. Kline, Tiffany Cogan.
+
+</div>
+<div class="col-sm-6">
+
+ <a href = "https://klinelab2015.wixsite.com/klinelab/projects"> 
+ ![](images/bobcat_ranchito_data.jpg)
+ </a>
+
+Image from camera traps.
+
+</div>
+</div>
+
 # Teamwork Makes the Dream Work
 
 None of this could be done without the helpful team of collaborators, colleagues, field assistants, boat captains, volunteers, reef station managers, local help, and our support system. Thank you everyone!
