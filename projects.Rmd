@@ -41,7 +41,7 @@ Collaborators: Marian Y.L. Wong, O. Selma Klanten, Siobhan J. Heatwole, Martin L
 </div>
 </div>
 
-# Social Behaviour of Coral Reef Fishes
+# Social Behaviour of Marine Animals
 
 <div class="row" style="padding-top: 30px;">
 <div class="col-sm-6">
@@ -55,9 +55,9 @@ Collaborators: Marian Y.L. Wong, O. Selma Klanten, Siobhan J. Heatwole, Martin L
 </div>
 <div class="col-sm-6">
 
-Animals often live in groups temporarily or permanently for a variety of ecological, social, and life history reasons. For several marine fishes, size hierarchies are established to maintain the peace in which the two biggest individuals breed and the rest control their growth and forgo reproduction to maintain group membership. I aim to uncover key evolutionary mechanisms for the maintenance of group membership and size hierarchies in such animals. Two fish groups that are of particular focus for my research are coral-dwelling gobies and anemonefishes.
+Animals often live in groups temporarily or permanently for a variety of ecological, social, and life history reasons. For several marine fishes, size hierarchies are established to maintain the peace in which the two biggest individuals breed and the rest control their growth and forgo reproduction to maintain group membership. I aim to uncover key evolutionary mechanisms for the maintenance of group membership and size hierarchies in such animals. Two fish groups that are of particular focus for my research are coral-dwelling gobies and anemonefishes. I am also applying similar sociality theory to mud shrimps using phylogenetically controlled analyses.
 
-Collaborators: Marian Y.L. Wong, O. Selma Klanten, Siobhan J. Heatwole, Martin L. Hing, Theresa Rueger, Peter M. Buston, Rebecca Branconi
+Collaborators: Marian Y.L. Wong, O. Selma Klanten, Siobhan J. Heatwole, Martin L. Hing, Theresa Rueger, Peter M. Buston, Rebecca Branconi, Renae Kirby
 
 </div>
 </div>
