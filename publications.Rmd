@@ -19,11 +19,11 @@ knitr::opts_chunk$set(message=FALSE,warning=FALSE, cache=TRUE)
 
 [10. Froehlich, C.Y.M., Klanten, O.S., Hing, M.L., Dowton, M., and Wong, M.Y.L. *In prep*. Climate induced impacts cause shifts in host specialisation and differential recovery in host-symbiont assemblages.]
 
-[9.	Froehlich, C.Y.M., Heatwole, S.J., Klanten, O.S., and Wong, M.Y.L. *In review*. To swim or not to swim: To swim or not to swim: decisions of translocated coral gobies in relation to habitat health, size, saturation, and familiarity.](https://www.biorxiv.org/content/10.1101/2021.06.17.448906v1)
+[9.	Froehlich, C.Y.M., Heatwole, S.J., Klanten, O.S., and Wong, M.Y.L. *In review*. Habitat size, health and saturation do not alter movement decisions or the preference for familiarity in a social coral-reef fish.](https://www.biorxiv.org/content/10.1101/2021.06.17.448906v1)
 
 [8.	Froehlich, C.Y.M., Klanten, O.S., Hing, M.L., Dowton, M., and Wong, M.Y.L. 2021. Uneven declines between corals and cryptobenthic fish symbionts from multiple disturbances. Scientific Reports (impact factor 4.379, quartile 1). doi: 10.1038/s41598-021-95778-x.](https://www.nature.com/articles/s41598-021-95778-x#article-info)
 
-[7.	Froehlich, C.Y.M., Lee, A., Oquita, R., Cintra-Buenrostro, C.E., and Shively, J.D. 2021. Reproductive characteristics of Red Snapper Lutjanus campechanus on artificial reefs in different jurisdictions. Regional Studies in Marine Science (impact factor 1.63) 47:101936. doi: 10.1016/j.rsma.2021.101936.](https://www.sciencedirect.com/science/article/abs/pii/S2352485521003285)
+[7.	Froehlich, C.Y.M., Lee, A., Oquita, R., Cintra-Buenrostro, C.E., and Shively, J.D. 2021. Reproductive characteristics of red snapper Lutjanus campechanus on artificial reefs in different jurisdictions. Regional Studies in Marine Science (impact factor 1.63) 47:101936. doi: 10.1016/j.rsma.2021.101936.](https://www.sciencedirect.com/science/article/abs/pii/S2352485521003285)
 
 [6. 	Froehlich, C.Y.M., Garcia, A., Cintra-Buenrostro, C.E., Hicks, D.W., and Kline, R.J. 2021. Structural differences alter residency and depth patterns of red snapper (Lutjanus campechanus) at two artificial reefs. Fisheries Research (impact factor 1.874, quartile 1 for aquatic science) 242:106043. doi: 10.1016/j.fishres.2021.106043.](https://www.sciencedirect.com/science/article/abs/pii/S0165783621001715)
 
@@ -31,7 +31,7 @@ knitr::opts_chunk$set(message=FALSE,warning=FALSE, cache=TRUE)
 
 [4. 	Froehlich, C.Y.M., Garcia, A., and Kline, R.J. 2019. Daily movement patterns of red snapper (Lutjanus campechanus) on a large artificial reef. Fisheries Research (impact factor 1.874, quartile 1 for aquatic science) 209:49-57. doi: 10.1016/j.fishres.2018.09.006.](https://linkinghub.elsevier.com/retrieve/pii/S0165783618302418)
 
-[3. 	Froehlich, C.Y.M., Lee, A., Oquita, R., Cintra-Buenrostro, C.E., Shively, J.D., and Shipley, J.B. 2018. A comparison of population dynamics from Red Snapper associated with inshore and offshore artificial reefs in the northwestern Gulf of Mexico. In: Bortone SA, editor. Marine artificial reef research and development: integrating fisheries management objectives. USA: Transactions of the American Fisheries Society (impact factor: 1.406, quartile 1 for aquatic science), 68.](https://www.researchgate.net/publication/329718111_A_comparison_of_population_dynamics_from_Red_Snapper_associated_with_inshore_and_offshore_artificial_reefs_in_the_northwestern_Gulf_of_Mexico)
+[3. 	Froehlich, C.Y.M., Lee, A., Oquita, R., Cintra-Buenrostro, C.E., Shively, J.D., and Shipley, J.B. 2018. A comparison of population dynamics from red snapper associated with inshore and offshore artificial reefs in the northwestern Gulf of Mexico. In: Bortone SA, editor. Marine artificial reef research and development: integrating fisheries management objectives. USA: Transactions of the American Fisheries Society (impact factor: 1.406, quartile 1 for aquatic science), 68.](https://www.researchgate.net/publication/329718111_A_comparison_of_population_dynamics_from_Red_Snapper_associated_with_inshore_and_offshore_artificial_reefs_in_the_northwestern_Gulf_of_Mexico)
 
 [2.	Arney, R.N., Froehlich, C.Y.M., and Kline, R.J. 2017. Recruitment patterns of juvenile fish at an artificial reef in the Gulf of Mexico. Marine and Coastal Fisheries: Dynamics, Management, and Ecosystem Science (impact factor 1.177, quartile 1 for aquatic science). 9:79-92. doi: 10.1080/19425120.2016.1265031.](https://www.tandfonline.com/doi/full/10.1080/19425120.2016.1265031)
 
