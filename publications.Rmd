@@ -37,9 +37,11 @@ knitr::opts_chunk$set(message=FALSE,warning=FALSE, cache=TRUE)
 
 [1.	Froehlich, C.Y.M., and Kline, R.J. 2015. Using fish population metrics to compare the effects of artificial reef density. PLoS One (impact factor 2.806, quartile 1 for aquatic science). 10(9):e0139444. doi: 10.1371/journal.pone.0139444.](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0139444)
 
-# Other Publications
+# Authored News Articles
 
-[8. 	Froehlich, C., Wong, M., Klanten, O.S. September 2021. Photos from the field: why losing these tiny, loyal fish to climate change spells disaster for coral. The Conversation. https://theconversation.com/photos-from-the-field-why-losing-these-tiny-loyal-fish-to-climate-change-spells-disaster-for-coral-167119](https://theconversation.com/photos-from-the-field-why-losing-these-tiny-loyal-fish-to-climate-change-spells-disaster-for-coral-167119)
+[1. 	Froehlich, C., Wong, M., Klanten, O.S. September 2021. Photos from the field: why losing these tiny, loyal fish to climate change spells disaster for coral. The Conversation. https://theconversation.com/photos-from-the-field-why-losing-these-tiny-loyal-fish-to-climate-change-spells-disaster-for-coral-167119](https://theconversation.com/photos-from-the-field-why-losing-these-tiny-loyal-fish-to-climate-change-spells-disaster-for-coral-167119)
+
+# Government White Papers
 
 [7.	Froehlich, C., Goyen, S., Hoey, A. August 2020. The ACRS comments on revisions of AS/NZS scientific diving standards. Australian Coral Reef Society submission to the Standards Australia Diving Committee.](https://australiancoralreefsociety.org/library/submissions/)
 
