@@ -17,6 +17,8 @@ knitr::opts_chunk$set(message=FALSE,warning=FALSE, cache=TRUE)
 ```
 # Academic Publications
 
+[11. Froehlich, C.Y.M. *Accepted.* What happens during a cyclone? The perspective of a reef fish. In: Coral Reefs of Australia: Hundred Years of Australian Coral Reef Society Science, Understanding the Fundamentals of Coral Reefs.]
+
 [10. Froehlich, C.Y.M., Klanten, O.S., Hing, M.L., Dowton, M., and Wong, M.Y.L. *In prep*. Climate induced impacts cause shifts in host specialisation and differential recovery in host-symbiont assemblages.]
 
 [9.	Froehlich, C.Y.M., Heatwole, S.J., Klanten, O.S., and Wong, M.Y.L. *In review*. Habitat size, health and saturation do not alter movement decisions or the preference for familiarity in a social coral-reef fish.](https://www.biorxiv.org/content/10.1101/2021.06.17.448906v1)
