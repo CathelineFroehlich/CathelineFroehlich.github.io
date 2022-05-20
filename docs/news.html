@@ -13,12 +13,22 @@
 
 <title>Research in the News</title>
 
-<script src="site_libs/jquery-1.11.3/jquery.min.js"></script>
+<script src="site_libs/header-attrs-2.14/header-attrs.js"></script>
+<script src="site_libs/jquery-3.6.0/jquery-3.6.0.min.js"></script>
 <meta name="viewport" content="width=device-width, initial-scale=1" />
 <link href="site_libs/bootstrap-3.3.5/css/bootstrap.min.css" rel="stylesheet" />
 <script src="site_libs/bootstrap-3.3.5/js/bootstrap.min.js"></script>
 <script src="site_libs/bootstrap-3.3.5/shim/html5shiv.min.js"></script>
 <script src="site_libs/bootstrap-3.3.5/shim/respond.min.js"></script>
+<style>h1 {font-size: 34px;}
+       h1.title {font-size: 38px;}
+       h2 {font-size: 30px;}
+       h3 {font-size: 24px;}
+       h4 {font-size: 18px;}
+       h5 {font-size: 16px;}
+       h6 {font-size: 12px;}
+       code {color: inherit; background-color: rgba(0, 0, 0, 0.04);}
+       pre:not([class]) { background-color: white }</style>
 <script src="site_libs/jqueryui-1.11.4/jquery-ui.min.js"></script>
 <link href="site_libs/tocify-1.9.1/jquery.tocify.css" rel="stylesheet" />
 <script src="site_libs/tocify-1.9.1/jquery.tocify.js"></script>
@@ -28,12 +38,16 @@
 <link href="site_libs/font-awesome-5.1.0/css/all.css" rel="stylesheet" />
 <link href="site_libs/font-awesome-5.1.0/css/v4-shims.css" rel="stylesheet" />
 
-<style type="text/css">code{white-space: pre;}</style>
 <style type="text/css">
-  pre:not([class]) {
-    background-color: white;
-  }
-</style>
+  code{white-space: pre-wrap;}
+  span.smallcaps{font-variant: small-caps;}
+  span.underline{text-decoration: underline;}
+  div.column{display: inline-block; vertical-align: top; width: 50%;}
+  div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+  ul.task-list{list-style: none;}
+    </style>
+
+<style type="text/css">code{white-space: pre;}</style>
 <script type="text/javascript">
 if (window.hljs) {
   hljs.configure({languages: []});
@@ -46,32 +60,8 @@ if (window.hljs) {
 
 
 
-<style type="text/css">
-h1 {
-  font-size: 34px;
-}
-h1.title {
-  font-size: 38px;
-}
-h2 {
-  font-size: 30px;
-}
-h3 {
-  font-size: 24px;
-}
-h4 {
-  font-size: 18px;
-}
-h5 {
-  font-size: 16px;
-}
-h6 {
-  font-size: 12px;
-}
-.table th:not([align]) {
-  text-align: left;
-}
-</style>
+
+
 
 
 
@@ -81,10 +71,6 @@ h6 {
   max-width: 940px;
   margin-left: auto;
   margin-right: auto;
-}
-code {
-  color: inherit;
-  background-color: rgba(0, 0, 0, 0.04);
 }
 img {
   max-width:100%;
@@ -101,40 +87,16 @@ button.code-folding-btn:focus {
 summary {
   display: list-item;
 }
+details > summary > p:only-child {
+  display: inline;
+}
+pre code {
+  padding: 0;
+}
 </style>
 
 
 <style type="text/css">
-/* padding for bootstrap navbar */
-body {
-  padding-top: 51px;
-  padding-bottom: 40px;
-}
-/* offset scroll position for anchor links (for fixed navbar)  */
-.section h1 {
-  padding-top: 56px;
-  margin-top: -56px;
-}
-.section h2 {
-  padding-top: 56px;
-  margin-top: -56px;
-}
-.section h3 {
-  padding-top: 56px;
-  margin-top: -56px;
-}
-.section h4 {
-  padding-top: 56px;
-  margin-top: -56px;
-}
-.section h5 {
-  padding-top: 56px;
-  margin-top: -56px;
-}
-.section h6 {
-  padding-top: 56px;
-  margin-top: -56px;
-}
 .dropdown-submenu {
   position: relative;
 }
@@ -162,7 +124,7 @@ body {
   margin-right: -10px;
 }
 .dropdown-submenu:hover>a:after {
-  border-left-color: #ffffff;
+  border-left-color: #adb5bd;
 }
 .dropdown-submenu.pull-left {
   float: none;
@@ -174,7 +136,7 @@ body {
 }
 </style>
 
-<script>
+<script type="text/javascript">
 // manage active state of menu based on current page
 $(document).ready(function () {
   // active menu anchor
@@ -185,10 +147,23 @@ $(document).ready(function () {
   var menuAnchor = $('a[href="' + href + '"]');
 
   // mark it active
-  menuAnchor.parent().addClass('active');
+  menuAnchor.tab('show');
 
   // if it's got a parent navbar menu mark it active as well
   menuAnchor.closest('li.dropdown').addClass('active');
+
+  // Navbar adjustments
+  var navHeight = $(".navbar").first().height() + 15;
+  var style = document.createElement('style');
+  var pt = "padding-top: " + navHeight + "px; ";
+  var mt = "margin-top: -" + navHeight + "px; ";
+  var css = "";
+  // offset scroll position for anchor links (for fixed navbar)
+  for (var i = 1; i <= 6; i++) {
+    css += ".section h" + i + "{ " + pt + mt + "}\n";
+  }
+  style.innerHTML = "body {" + pt + "padding-bottom: 40px; }\n" + css;
+  document.head.appendChild(style);
 });
 </script>
 
@@ -200,7 +175,6 @@ $(document).ready(function () {
   max-height: 500px;
   min-height: 44px;
   overflow-y: auto;
-  background: white;
   border: 1px solid #ddd;
   border-radius: 4px;
 }
@@ -326,7 +300,7 @@ div.tocify {
 
 
 <!-- setup 3col/9col grid for toc_float and main content  -->
-<div class="row-fluid">
+<div class="row">
 <div class="col-xs-12 col-sm-4 col-md-3">
 <div id="TOC" class="tocify">
 </div>
@@ -340,7 +314,7 @@ div.tocify {
 <div class="navbar navbar-default  navbar-fixed-top" role="navigation">
   <div class="container">
     <div class="navbar-header">
-      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar">
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-bs-toggle="collapse" data-target="#navbar" data-bs-target="#navbar">
         <span class="icon-bar"></span>
         <span class="icon-bar"></span>
         <span class="icon-bar"></span>
@@ -392,7 +366,7 @@ div.tocify {
   </div><!--/.container -->
 </div><!--/.navbar -->
 
-<div class="fluid-row" id="header">
+<div id="header">
 
 
 
@@ -404,38 +378,101 @@ div.tocify {
 <p><img src="images/secondbanner.jpg" /></p>
 <hr />
 <hr />
-<div id="why-losing-these-tiny-loyal-fish-to-climate-change-spells-disaster-for-coral" class="section level1">
-<h1>Why losing these tiny, loyal fish to climate change spells disaster for coral</h1>
-<p>“If you’ve ever dived on a coral reef, you may have peeked into a staghorn coral and seen small fish whizzing through its branches. But few realise that these small fish, such as tiny goby fish, play a crucial role in helping corals weather the storm of climate change…” Read more: <a href="https://theconversation.com/photos-from-the-field-why-losing-these-tiny-loyal-fish-to-climate-change-spells-disaster-for-coral-167119" class="uri">https://theconversation.com/photos-from-the-field-why-losing-these-tiny-loyal-fish-to-climate-change-spells-disaster-for-coral-167119</a></p>
-<p><a href = "https://theconversation.com/photos-from-the-field-why-losing-these-tiny-loyal-fish-to-climate-change-spells-disaster-for-coral-167119"> <img src="images/TheConversation07092021.png" /> </a> _______________________________________________________________________</p>
+<div
+id="why-losing-these-tiny-loyal-fish-to-climate-change-spells-disaster-for-coral"
+class="section level1">
+<h1>Why losing these tiny, loyal fish to climate change spells disaster
+for coral</h1>
+<p>“If you’ve ever dived on a coral reef, you may have peeked into a
+staghorn coral and seen small fish whizzing through its branches. But
+few realise that these small fish, such as tiny goby fish, play a
+crucial role in helping corals weather the storm of climate change…”
+Read more: <a
+href="https://theconversation.com/photos-from-the-field-why-losing-these-tiny-loyal-fish-to-climate-change-spells-disaster-for-coral-167119"
+class="uri">https://theconversation.com/photos-from-the-field-why-losing-these-tiny-loyal-fish-to-climate-change-spells-disaster-for-coral-167119</a></p>
+<p><a href = "https://theconversation.com/photos-from-the-field-why-losing-these-tiny-loyal-fish-to-climate-change-spells-disaster-for-coral-167119">
+<img src="images/TheConversation07092021.png" /> </a>
+_______________________________________________________________________</p>
 </div>
 <div id="why-do-gobies-and-corals-live-together" class="section level1">
 <h1>Why do gobies and corals live together?</h1>
-<p>“Why do gobies remain in their corals and what does the coral get out of it? It turns out that coral gobies and their corals have a mutually beneficial relationship whereby they each benefit from each other’s presence…” Read more: <a href="https://lirrf.org/posts/why-do-gobies-and-corals-live-together/" class="uri">https://lirrf.org/posts/why-do-gobies-and-corals-live-together/</a></p>
-<p><a href = "https://lirrf.org/posts/why-do-gobies-and-corals-live-together/"> <img src="images/DSCN0514-filter.jpg" /> </a> _______________________________________________________________________</p>
+<p>“Why do gobies remain in their corals and what does the coral get out
+of it? It turns out that coral gobies and their corals have a mutually
+beneficial relationship whereby they each benefit from each other’s
+presence…” Read more: <a
+href="https://lirrf.org/posts/why-do-gobies-and-corals-live-together/"
+class="uri">https://lirrf.org/posts/why-do-gobies-and-corals-live-together/</a></p>
+<p><a href = "https://lirrf.org/posts/why-do-gobies-and-corals-live-together/">
+<img src="images/DSCN0514-filter.jpg" /> </a>
+_______________________________________________________________________</p>
 </div>
-<div id="corals-and-goby-fishes-showing-signs-of-recovery-at-lizard-island" class="section level1">
-<h1>Corals and goby fishes showing signs of recovery at Lizard Island</h1>
-<p>“Corals and goby fishes are slowly recovering, less than 3 years after the devastating climatic events that occurred at Lizard Island. While this is great news for Lizard Island, more recovery time is needed. The last 5 years have been rough for the reef, with two consecutive cyclones and two back-to-back mass bleaching events taking place…” Read more: <a href="https://lirrf.org/posts/corals-and-goby-fishes-showing-signs-of-recovery-at-lizard-island/" class="uri">https://lirrf.org/posts/corals-and-goby-fishes-showing-signs-of-recovery-at-lizard-island/</a></p>
-<p><a href = "https://lirrf.org/posts/corals-and-goby-fishes-showing-signs-of-recovery-at-lizard-island/"> <img src="images/27012020DSCN7656.JPG" /> </a> _______________________________________________________________________</p>
+<div
+id="corals-and-goby-fishes-showing-signs-of-recovery-at-lizard-island"
+class="section level1">
+<h1>Corals and goby fishes showing signs of recovery at Lizard
+Island</h1>
+<p>“Corals and goby fishes are slowly recovering, less than 3 years
+after the devastating climatic events that occurred at Lizard Island.
+While this is great news for Lizard Island, more recovery time is
+needed. The last 5 years have been rough for the reef, with two
+consecutive cyclones and two back-to-back mass bleaching events taking
+place…” Read more: <a
+href="https://lirrf.org/posts/corals-and-goby-fishes-showing-signs-of-recovery-at-lizard-island/"
+class="uri">https://lirrf.org/posts/corals-and-goby-fishes-showing-signs-of-recovery-at-lizard-island/</a></p>
+<p><a href = "https://lirrf.org/posts/corals-and-goby-fishes-showing-signs-of-recovery-at-lizard-island/">
+<img src="images/27012020DSCN7656.JPG" /> </a>
+_______________________________________________________________________</p>
 </div>
-<div id="from-texas-to-the-reef-phd-student-lands-prestigious-fellowship" class="section level1">
-<h1>From Texas to the Reef, PhD student lands prestigious fellowship</h1>
-<p>“For Catheline Froehlich the Great Barrier Reef is a long way from her old home in Texas, in the United States. The declared, European-American has just scored the fellowship of a lifetime. Catheline has received The Zoltan Florian Marine Biology Fellowship, one of three fellowship programs operating at the Lizard Island Research Station (LIRS) on the Great Barrier Reef…” Read more: <a href="https://www.uow.edu.au/media/2019/from-texas-to-the-reef-phd-student-lands-prestigious-fellowship.php" class="uri">https://www.uow.edu.au/media/2019/from-texas-to-the-reef-phd-student-lands-prestigious-fellowship.php</a></p>
-<p><a href = "https://www.uow.edu.au/media/2019/from-texas-to-the-reef-phd-student-lands-prestigious-fellowship.php"> <img src="images/Catheline%20Froehlich.pdj..14.03.19.002.jpg" /> </a> _______________________________________________________________________</p>
+<div
+id="from-texas-to-the-reef-phd-student-lands-prestigious-fellowship"
+class="section level1">
+<h1>From Texas to the Reef, PhD student lands prestigious
+fellowship</h1>
+<p>“For Catheline Froehlich the Great Barrier Reef is a long way from
+her old home in Texas, in the United States. The declared,
+European-American has just scored the fellowship of a lifetime.
+Catheline has received The Zoltan Florian Marine Biology Fellowship, one
+of three fellowship programs operating at the Lizard Island Research
+Station (LIRS) on the Great Barrier Reef…” Read more: <a
+href="https://www.uow.edu.au/media/2019/from-texas-to-the-reef-phd-student-lands-prestigious-fellowship.php"
+class="uri">https://www.uow.edu.au/media/2019/from-texas-to-the-reef-phd-student-lands-prestigious-fellowship.php</a></p>
+<p><a href = "https://www.uow.edu.au/media/2019/from-texas-to-the-reef-phd-student-lands-prestigious-fellowship.php">
+<img src="images/Catheline%20Froehlich.pdj..14.03.19.002.jpg" /> </a>
+_______________________________________________________________________</p>
 </div>
-<div id="showcasing-utrgv-research-and-diving-in-texas-magazine" class="section level1">
+<div id="showcasing-utrgv-research-and-diving-in-texas-magazine"
+class="section level1">
 <h1>Showcasing UTRGV Research and Diving in Texas Magazine</h1>
-<p><img src="images/16251724_10212582300898975_7618050145826652918_o.jpg" /> _______________________________________________________________________</p>
+<p><img
+src="images/16251724_10212582300898975_7618050145826652918_o.jpg" />
+_______________________________________________________________________</p>
 </div>
-<div id="sea-nursery-man-made-reef-aimed-at-saving-red-snapper" class="section level1">
+<div id="sea-nursery-man-made-reef-aimed-at-saving-red-snapper"
+class="section level1">
 <h1>Sea nursery: Man-made reef aimed at saving red snapper</h1>
-<p>“Studies conducted at UTRGV determined that juvenile fish need a habitat that is smaller, and separate from the larger reefs, in order to have a safe environment from predators. ‘We’re hoping to increase the number of red snapper and aid the fisheries in general,’ said Catheline Froehlich, who holds a master of science in biology from UTRGV legacy institution UTB/TSC. ‘They have a lot of pressure right now from overfishing.’” Read more: <a href="https://myrgv.com/the-valley-morning-star/2017/07/13/sea-nursery-man-made-reef-aimed-at-saving-red-snapper/" class="uri">https://myrgv.com/the-valley-morning-star/2017/07/13/sea-nursery-man-made-reef-aimed-at-saving-red-snapper/</a></p>
-<p><a href = "https://myrgv.com/the-valley-morning-star/2017/07/13/sea-nursery-man-made-reef-aimed-at-saving-red-snapper/"> <img src="images/DeployRGVReefGuy.jpg" /> </a> _______________________________________________________________________</p>
+<p>“Studies conducted at UTRGV determined that juvenile fish need a
+habitat that is smaller, and separate from the larger reefs, in order to
+have a safe environment from predators. ‘We’re hoping to increase the
+number of red snapper and aid the fisheries in general,’ said Catheline
+Froehlich, who holds a master of science in biology from UTRGV legacy
+institution UTB/TSC. ‘They have a lot of pressure right now from
+overfishing.’” Read more: <a
+href="https://myrgv.com/the-valley-morning-star/2017/07/13/sea-nursery-man-made-reef-aimed-at-saving-red-snapper/"
+class="uri">https://myrgv.com/the-valley-morning-star/2017/07/13/sea-nursery-man-made-reef-aimed-at-saving-red-snapper/</a></p>
+<p><a href = "https://myrgv.com/the-valley-morning-star/2017/07/13/sea-nursery-man-made-reef-aimed-at-saving-red-snapper/">
+<img src="images/DeployRGVReefGuy.jpg" /> </a>
+_______________________________________________________________________</p>
 </div>
-<div id="cathelines-hobbies-were-featured-in-the-news" class="section level1">
+<div id="cathelines-hobbies-were-featured-in-the-news"
+class="section level1">
 <h1>Catheline’s hobbies were featured in the news</h1>
-<p>Organising and Founding the Brownsville International Film Festival “Brownsville has a rich history as a film locale, with movies such as “La Banda del Carro Rojo” (1978) and “Back Roads” (1981) to “Endgame” (2015). This Saturday, it will be the site of a festival with about 100 movies from across the globe." Read more: <a href="https://www.utrgvrider.com/a-view-to-the-world-in-downtown-brownsville/" class="uri">https://www.utrgvrider.com/a-view-to-the-world-in-downtown-brownsville/</a></p>
+<p>Organising and Founding the Brownsville International Film Festival
+“Brownsville has a rich history as a film locale, with movies such as
+“La Banda del Carro Rojo” (1978) and “Back Roads” (1981) to “Endgame”
+(2015). This Saturday, it will be the site of a festival with about 100
+movies from across the globe.” Read more: <a
+href="https://www.utrgvrider.com/a-view-to-the-world-in-downtown-brownsville/"
+class="uri">https://www.utrgvrider.com/a-view-to-the-world-in-downtown-brownsville/</a></p>
 <p><a href = "https://www.utrgvrider.com/a-view-to-the-world-in-downtown-brownsville/
 "> <img src="images/BIFFlogo2016event.jpg" /> </a></p>
 </div>
@@ -451,7 +488,7 @@ div.tocify {
 
 // add bootstrap table styles to pandoc tables
 function bootstrapStylePandocTables() {
-  $('tr.header').parent('thead').parent('table').addClass('table table-condensed');
+  $('tr.odd').parent('tbody').parent('table').addClass('table table-condensed');
 }
 $(document).ready(function () {
   bootstrapStylePandocTables();
@@ -469,7 +506,7 @@ $(document).ready(function () {
 
 $(document).ready(function () {
   $('.tabset-dropdown > .nav-tabs > li').click(function () {
-    $(this).parent().toggleClass('nav-tabs-open')
+    $(this).parent().toggleClass('nav-tabs-open');
   });
 });
 </script>
@@ -478,6 +515,9 @@ $(document).ready(function () {
 
 <script>
 $(document).ready(function ()  {
+
+    // temporarily add toc-ignore selector to headers for the consistency with Pandoc
+    $('.unlisted.unnumbered').addClass('toc-ignore')
 
     // move toc-ignore selectors from section div to header
     $('div.section.toc-ignore')
