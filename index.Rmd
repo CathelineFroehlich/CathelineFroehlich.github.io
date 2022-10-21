@@ -22,7 +22,7 @@ output: html_document
 
 Catheline is a behavioural ecologist interested in linking animal behaviour and ecological changes in the environment. She studies animal behaviour, fish coloration, environmental disturbances, global change, coral reefs, artificial reefs, mutualistic relationships, wildcat ecology, fish telemetry, and fisheries management. Follow her work and outreach on twitter @[gobyprincess](https://twitter.com/gobyprincess).
 
-Catheline is currently postdoc at the University of Alabama and Dauphin Island Sea Lab. There, she studies the mutualisms between anemonefish and anemones.
+Catheline is currently a postdoc at the University of Alabama and Dauphin Island Sea Lab. There, she studies the mutualisms between anemonefish and anemones with Ben Titus.
 
 She previously completed her PhD at the University of Wollongong (UOW) and also the first fellow to receive the Zoltan Florian Marine Biology Fellowship through the Lizard Island Doctoral Fellowship Program from the Australian Museum. She is on the Equity, Diversity, and Inclusion committee for postgraduate students at UOW, and wants to remove systemic discrimination and barriers in research for all.
 
