@@ -16,12 +16,32 @@ output:
 knitr::opts_chunk$set(message=FALSE,warning=FALSE, cache=TRUE)
 ```
 
+# Mutualism Origins and Organismal Characteristics
+
+<div class="row" style="padding-top: 30px;">
+<div class="col-sm-6">
+
+![](images/278022947_10229423608201132_718196840382747213_n.jpg)
+
+![](images/DSC01627.jpg)
+</a>
+
+</div>
+<div class="col-sm-6">
+
+Mutualisms are fascinating interactions between different organisms that likely have impacts on other aspects than merely survival. The ecology of these organisms can be tightly linked to their mutualisms and particular characteristics of each organism may be dictated by their mutualisms. Here we examine the potential for physical aspects of anemonefishes to be related to their anemone hosts. We also bring in some phylogenetic analyses to investigate such work.
+
+Collaborators: Benjamin M. Titus
+
+</div>
+</div>
+
 # Linking Animal Behaviour, Mutualisms and Environmental Change
 
 <div class="row" style="padding-top: 30px;">
 <div class="col-sm-6">
 
-As environmental disturbances become more intense and frequent, there are many changes that have been documented at population levels and ecosystem levels. We have yet to uncover how such disturbances affect the behaviour of animals, which is critical for the maintenance of many populations and could prove detrimental to particular species or even groups of species. Importantly, many animal relationships exist among different organisms, and mutualistic relationships are key for the maintenance of several ecosystems. Accordingly, changes to animal behaviours and ecological relationships may have flow-on effects on ecosystems. For my research, I aim to delve deeper into the potential environmental consequences on animal behaviour for mutualistic organisms. I use a combination of observational, manipulative, and phylogenetic approaches to link animal behaviour, habitat use, and environmental change for coral-dwelling gobies, which live exclusively in some of the corals most susceptible to coral damage and death from cyclones and bleaching-induced heatwaves.
+As environmental disturbances become more intense and frequent, there are many changes that have been documented at population levels and ecosystem levels. We have yet to uncover how such disturbances affect the behaviour of animals, which is critical for the maintenance of many populations and could prove detrimental to particular species or even groups of species. Importantly, many animal relationships exist among different organisms, and mutualistic relationships are key for the maintenance of several ecosystems. Accordingly, changes to animal behaviours and ecological relationships may have flow-on effects on ecosystems. For my research, I aim to delve deeper into the potential environmental consequences on animal behaviour for mutualistic organisms. I use a combination of observational, manipulative, and phylogenetic approaches to link animal behaviour, habitat use, and environmental change for coral-dwelling gobies, which live exclusively in some of the corals most susceptible to coral damage and death from cyclones and bleaching-induced heatwaves. 
 
 Collaborators: Marian Y.L. Wong, O. Selma Klanten, Siobhan J. Heatwole, Martin L. Hing, Mark Dowton
 
