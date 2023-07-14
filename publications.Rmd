@@ -17,9 +17,9 @@ knitr::opts_chunk$set(message=FALSE,warning=FALSE, cache=TRUE)
 ```
 # Academic Publications
 
-[11. Froehlich, C.Y.M. *Accepted.* What happens during a cyclone? The perspective of a reef fish. In: Coral Reefs of Australia: Hundred Years of Australian Coral Reef Society Science, Understanding the Fundamentals of Coral Reefs.]
+[11. Froehlich, C.Y.M., Klanten, O.S., Hing, M.L., Dowton, M., and Wong, M.Y.L. 2023. Delayed recovery and host specialization may spell disaster for coral-fish mutualism.](https://onlinelibrary.wiley.com/doi/10.1002/ece3.10209)
 
-[10. Froehlich, C.Y.M., Klanten, O.S., Hing, M.L., Dowton, M., and Wong, M.Y.L. *Submitted*. Delayed recovery and host specialization may spell disaster for coral-fish mutualism.]
+[10. Froehlich, C.Y.M. 2022. What happens during a cyclone? The perspective of a reef fish. In: Coral Reefs of Australia: Hundred Years of Australian Coral Reef Society Science, Understanding the Fundamentals of Coral Reefs.]
 
 [9.	Froehlich, C.Y.M., Heatwole, S.J., Klanten, O.S., and Wong, M.Y.L. 2022. Habitat size, health and saturation do not alter movement decisions or the preference for familiarity in a social coral-reef fish. Animal Behaviour (impact factor:2.844, quartile 1 for ecology, evolution, behavior and systematics).](https://www.sciencedirect.com/science/article/pii/S0003347222001786?dgcid=author)
 

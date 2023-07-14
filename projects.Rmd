@@ -49,13 +49,21 @@ Collaborators: Marian Y.L. Wong, O. Selma Klanten, Siobhan J. Heatwole, Martin L
 </div>
 <div class="col-sm-6">
 
-<a href = "https://www.nature.com/articles/s41598-021-95778-x#article-info">
 ![](images/DNAExtract_TaggedGoby.jpg)
+
+<a href = "https://www.nature.com/articles/s41598-021-95778-x#article-info">
+![](images/LI2014568Goby_Figures_CoralReID_v10_Fig1.png)
+
 
 </a>
 
 <a href = "https://www.sciencedirect.com/science/article/pii/S0003347222001786?dgcid=author">
 ![](images/104466995_10224587592503762_5668751840803121386_o.jpg)
+</a>
+
+
+<a href = "https://onlinelibrary.wiley.com/doi/10.1002/ece3.10209">
+![](images/GobyHost_LI201456820_GraphicalAbstract_v5.jpg)
 </a>
 
 </div>
