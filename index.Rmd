@@ -20,14 +20,14 @@ output: html_document
 
 # **Welcome to Catheline Froehlich's Research**
 
-Catheline is a behavioural ecologist interested in linking animal behaviour and ecological changes in the environment. She studies animal behaviour, fish coloration, environmental disturbances, global change, coral reefs, artificial reefs, mutualistic relationships, wildcat ecology, fish telemetry, and fisheries management. Follow her work and outreach on twitter @[gobyprincess](https://twitter.com/gobyprincess).
+Catheline is a behavioural ecologist interested in linking **animal behaviour** and **ecological changes** in the environment. She studies animal behaviour, fish coloration, environmental disturbances, global change, coral reefs, artificial reefs, mutualistic relationships, wildcat ecology, fish telemetry, and fisheries management. Follow her work and outreach on twitter @[gobyprincess](https://twitter.com/gobyprincess).
 
-Catheline is currently a postdoc at the University of Alabama and Dauphin Island Sea Lab. There, she studies the mutualisms between anemonefish and anemones with Ben Titus.
+Catheline is currently a **postdoc** at the University of Alabama and Dauphin Island Sea Lab. There, she studies the mutualisms between anemonefish and anemones with Ben Titus. She was awarded a **National Science Foundation Postdoctoral Research Fellowship in Biology**!
 
-She previously completed her PhD at the University of Wollongong (UOW) and also the first fellow to receive the Zoltan Florian Marine Biology Fellowship through the Lizard Island Doctoral Fellowship Program from the Australian Museum. She is on the Equity, Diversity, and Inclusion committee for postgraduate students at UOW, and wants to remove systemic discrimination and barriers in research for all.
+She previously completed her PhD at the University of Wollongong (UOW) and was also the first fellow to receive the Zoltan Florian Marine Biology Fellowship through the **Lizard Island Doctoral Fellowship Program** from the Australian Museum. She was on the **Equity, Diversity, and Inclusion** committee for postgraduate students at UOW, and wants to continue removing systemic discrimination and barriers in research for all.
 
 
-Catheline co-founded a podcast [The Graduates Sci-Com](https://open.spotify.com/show/7nwpzT5IpeH6cNgyJHaGVB?si=-WoJfjbJRHOnp4oTdoqL6w&nd=1) aimed at explaining science in the most hilarious way possible. Listen in and jump on our twitter @[gradscicomm](https://twitter.com/gradscicomm).
+Catheline co-founded a **podcast** [The Graduates Sci-Com](https://open.spotify.com/show/7nwpzT5IpeH6cNgyJHaGVB?si=-WoJfjbJRHOnp4oTdoqL6w&nd=1) aimed at explaining science in the most hilarious way possible. Listen in and jump on our twitter @[gradscicomm](https://twitter.com/gradscicomm).
 
 </div>
 <div class="col-sm-6">
