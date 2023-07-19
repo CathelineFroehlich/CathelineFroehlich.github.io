@@ -45,6 +45,8 @@ knitr::opts_chunk$set(message=FALSE,warning=FALSE, cache=TRUE)
 
 # Government White Papers
 
+[8. Froehlich. C. April 2023. The ACRS comments on the Draft Policy of Fish Aggregating Devices and Artificial Reefs. Australian Coral Reef Society submission to the Great Barrier Reef MarinePark Authority.](https://australiancoralreefsociety.org/acrs-response-to-gbrmpas-draft-policy-of-fish-aggregating-devices-and-artificial-reefs/)
+
 [7.	Froehlich, C., Goyen, S., Hoey, A. August 2020. The ACRS comments on revisions of AS/NZS scientific diving standards. Australian Coral Reef Society submission to the Standards Australia Diving Committee.](https://australiancoralreefsociety.org/library/submissions/)
 
 [6.	Wolfe, K., & Froehlich, C. August 2020.The ACRS calls for a reassessment of the East Coast Sea Cucumber fishery. Australian Coral Reef Society submission to Department of Agriculture, Water and the Environment regarding Sea Cucumber Fishery (East Coast) – Status report for reassessment.](https://australiancoralreefsociety.org/the-acrs-calls-for-a-reassessment-of-east-coast-sea-cucumber-fishery/)
