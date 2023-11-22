@@ -17,6 +17,12 @@ knitr::opts_chunk$set(message=FALSE,warning=FALSE, cache=TRUE)
 ```
 # Academic Publications
 
+14.. Froehlich. C.Y.M., Heatwole, S.J., Klanten, O.S., Hing, M.L., Wong, M.Y.L. Submitted. Multi-level framework to assess social variation in response to ecological and social factors: modeled with coral gobies.
+
+13.. Titus. B.M., Froehlich, C.Y.M., Vondriska, C., Baker, R., Caves, E.M. Submitted. Stable isotopes disentangle niche partitioning and species co-occurrence in a multi-level marine mutualism.
+
+12.. Kirby, R., Froehlich, C.Y.M., Greaves, S., Klanten, O.S., Wong, M.Y.L. In review. Lack of population structure in an important fisheries species of mud shrimp, Trypaea australiensis.
+
 [11. Froehlich, C.Y.M., Klanten, O.S., Hing, M.L., Dowton, M., and Wong, M.Y.L. 2023. Delayed recovery and host specialization may spell disaster for coral-fish mutualism.](https://onlinelibrary.wiley.com/doi/10.1002/ece3.10209)
 
 [10. Froehlich, C.Y.M. 2022. What happens during a cyclone? The perspective of a reef fish. In: Coral Reefs of Australia: Hundred Years of Australian Coral Reef Society Science, Understanding the Fundamentals of Coral Reefs.](https://books.google.com/books/about/Coral_Reefs_of_Australia.html?id=MTKYEAAAQBAJ)
