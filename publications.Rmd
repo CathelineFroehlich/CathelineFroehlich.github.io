@@ -19,7 +19,7 @@ knitr::opts_chunk$set(message=FALSE,warning=FALSE, cache=TRUE)
 
 14.. Titus. B.M., Froehlich, C.Y.M., Vondriska, C., Baker, R., Caves, E.M. In review. Stable isotopes disentangle niche partitioning and species co-occurrence in a multi-level marine mutualism.
 
-13.. Froehlich. C.Y.M., Heatwole, S.J., Klanten, O.S., Hing, M.L., Hildebrandt, C.A., Smith, J.O., Wong, M.Y.L. Accepted. Multi-level framework to assess social variation in response to ecological and social factors: modeled with coral gobies. Oikos.
+13.. Froehlich. C.Y.M., Heatwole, S.J., Klanten, O.S., Hing, M.L., Hildebrandt, C.A., Smith, J.O., Wong, M.Y.L. In press. Multi-level framework to assess social variation in response to ecological and social factors: modeled with coral gobies. Oikos.
 
 12.. [Kirby, R., Froehlich, C.Y.M., Greaves, S., Klanten, O.S., Wong, M.Y.L. Lack of population structure in an important fishery species of mud shrimp, Trypaea australiensis. Fish Manag Ecol. 00:e12682. doi: 10.1111/fme.12682.](https://onlinelibrary.wiley.com/doi/full/10.1111/fme.12682)
 
