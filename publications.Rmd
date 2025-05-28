@@ -17,13 +17,13 @@ knitr::opts_chunk$set(message=FALSE,warning=FALSE, cache=TRUE)
 ```
 # Academic Publications
 
-19. Bennett-Smith, M.F., Froehlich, C.Y.M., Vizer, L.F., Buston, P.M. Submitted. Selective tolerance of some fish by Christmas Tree Worms reveals first-known positive symbiosis between fish and polychaetes.
+19_ Bennett-Smith, M.F., Froehlich, C.Y.M., Vizer, L.F., Buston, P.M. Submitted. Selective tolerance of some fish by Christmas Tree Worms reveals first-known positive symbiosis between fish and polychaetes.
 
-18. Froehlich, C.Y.M., Caves, E.M., Troscianko, J., Gibson, M., Chiodo, T., De Jode, A., Brown, K., Luckas, N., Titus, B.M. Under consideration. The ecology of clownfish color patterns.
+18_ Froehlich, C.Y.M., Caves, E.M., Troscianko, J., Gibson, M., Chiodo, T., De Jode, A., Brown, K., Luckas, N., Titus, B.M. Under consideration. The ecology of clownfish color patterns.
 
-17. Hildebrandt, C.A., Froehlich, C.Y.M., Klanten, O.S., Wong, M.Y.L. Submitted. Goby spotting: an updated guide to cryctic coral-dwelling gobies (genus Gobiodon) in the Indo-Pacific Region.
+17_ Hildebrandt, C.A., Froehlich, C.Y.M., Klanten, O.S., Wong, M.Y.L. Submitted. Goby spotting: an updated guide to cryctic coral-dwelling gobies (genus Gobiodon) in the Indo-Pacific Region.
 
-16. Chiodo, T., De Jode, A., Quattrini, A., Gibson, M.K., Froehlich, C.Y.M., Huang, D., Fuji, T., Yanagi, K., Reimer, J., Scott, A., Rodriguez, E., Titus, B.M. In review. Nemo knows: clownfishes differentiate cryptic host species across fine and broad geographic scales and reveal a potential adaptive radiation in the clownfish-hosting sea anemones.
+16_ Chiodo, T., De Jode, A., Quattrini, A., Gibson, M.K., Froehlich, C.Y.M., Huang, D., Fuji, T., Yanagi, K., Reimer, J., Scott, A., Rodriguez, E., Titus, B.M. In review. Nemo knows: clownfishes differentiate cryptic host species across fine and broad geographic scales and reveal a potential adaptive radiation in the clownfish-hosting sea anemones.
 
 [15. Hildebrandt, C.A., Froehlich, C.Y.M., Brodenicke, O., Klanten, O.S., Moller, P.R., Wong, M.Y.L. 2024. Two new species of Gobiodon (Teleostei: Gobiidae) from the Indo-Pacific, with notes on South Pacific and Indian Ocean populations of Gobiodon spadix. Raffles Bulletin of Zoology. 72:488-510. doi: 10.26107/RBZ-2024-0036.](https://lkcnhm.nus.edu.sg/wp-content/uploads/sites/11/2024/12/RBZ-2024-0036.pdf)
 
