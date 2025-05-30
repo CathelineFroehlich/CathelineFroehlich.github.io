@@ -31,7 +31,7 @@ knitr::opts_chunk$set(message=FALSE,warning=FALSE, cache=TRUE)
 
 Mutualisms are fascinating interactions between different organisms that likely have impacts on other aspects than merely survival. The ecology of these organisms can be tightly linked to their mutualisms and particular characteristics of each organism may be dictated by their mutualisms. Here we examine the potential for physical aspects of anemonefishes to be related to their anemone hosts. We also bring in some phylogenetic analyses to investigate such work.
 
-Collaborators: Benjamin M. Titus, Aurelien De Jode, Miranda Gibson, Tommaso Chiodo, Korrie Brown, Nina Luckas, Eleanor Caves, Jolyon Troscianko
+Collaborators: Benjamin M. Titus, Aurelien De Jode, Miranda Gibson, Tommaso Chiodo, Korrie Brown, Nina Luckas, Eleanor Caves, Jolyon Troscianko, Morgan Bennett-Smith
 
 </div>
 </div>
