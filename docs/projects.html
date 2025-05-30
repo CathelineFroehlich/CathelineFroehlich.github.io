@@ -13,7 +13,7 @@
 
 <title>Research Projects</title>
 
-<script src="site_libs/header-attrs-2.14/header-attrs.js"></script>
+<script src="site_libs/header-attrs-2.29/header-attrs.js"></script>
 <script src="site_libs/jquery-3.6.0/jquery-3.6.0.min.js"></script>
 <meta name="viewport" content="width=device-width, initial-scale=1" />
 <link href="site_libs/bootstrap-3.3.5/css/bootstrap.min.css" rel="stylesheet" />
@@ -29,14 +29,14 @@
        h6 {font-size: 12px;}
        code {color: inherit; background-color: rgba(0, 0, 0, 0.04);}
        pre:not([class]) { background-color: white }</style>
-<script src="site_libs/jqueryui-1.11.4/jquery-ui.min.js"></script>
+<script src="site_libs/jqueryui-1.13.2/jquery-ui.min.js"></script>
 <link href="site_libs/tocify-1.9.1/jquery.tocify.css" rel="stylesheet" />
 <script src="site_libs/tocify-1.9.1/jquery.tocify.js"></script>
 <script src="site_libs/navigation-1.1/tabsets.js"></script>
 <link href="site_libs/highlightjs-9.12.0/default.css" rel="stylesheet" />
 <script src="site_libs/highlightjs-9.12.0/highlight.js"></script>
-<link href="site_libs/font-awesome-5.1.0/css/all.css" rel="stylesheet" />
-<link href="site_libs/font-awesome-5.1.0/css/v4-shims.css" rel="stylesheet" />
+<link href="site_libs/font-awesome-6.5.2/css/all.min.css" rel="stylesheet" />
+<link href="site_libs/font-awesome-6.5.2/css/v4-shims.min.css" rel="stylesheet" />
 
 <style type="text/css">
   code{white-space: pre-wrap;}
@@ -146,11 +146,15 @@ $(document).ready(function () {
     href = "index.html";
   var menuAnchor = $('a[href="' + href + '"]');
 
-  // mark it active
-  menuAnchor.tab('show');
-
-  // if it's got a parent navbar menu mark it active as well
-  menuAnchor.closest('li.dropdown').addClass('active');
+  // mark the anchor link active (and if it's in a dropdown, also mark that active)
+  var dropdown = menuAnchor.closest('li.dropdown');
+  if (window.bootstrap) { // Bootstrap 4+
+    menuAnchor.addClass('active');
+    dropdown.find('> .dropdown-toggle').addClass('active');
+  } else { // Bootstrap 3
+    menuAnchor.parent().addClass('active');
+    dropdown.addClass('active');
+  }
 
   // Navbar adjustments
   var navHeight = $(".navbar").first().height() + 15;
@@ -179,8 +183,8 @@ $(document).ready(function () {
   border-radius: 4px;
 }
 
-.tabset-dropdown > .nav-tabs > li.active:before {
-  content: "";
+.tabset-dropdown > .nav-tabs > li.active:before, .tabset-dropdown > .nav-tabs.nav-tabs-open:before {
+  content: "\e259";
   font-family: 'Glyphicons Halflings';
   display: inline-block;
   padding: 10px;
@@ -188,16 +192,9 @@ $(document).ready(function () {
 }
 
 .tabset-dropdown > .nav-tabs.nav-tabs-open > li.active:before {
-  content: "&#xe258;";
-  border: none;
-}
-
-.tabset-dropdown > .nav-tabs.nav-tabs-open:before {
-  content: "";
+  content: "\e258";
   font-family: 'Glyphicons Halflings';
-  display: inline-block;
-  padding: 10px;
-  border-right: 1px solid #ddd;
+  border: none;
 }
 
 .tabset-dropdown > .nav-tabs > li.active {
@@ -375,7 +372,7 @@ div.tocify {
 </div>
 
 
-<p><img src="images/Slide3s.png" /></p>
+<p><img src="images/slide3s.png" /></p>
 <div id="mutualism-origins-and-organismal-characteristics"
 class="section level1">
 <h1>Mutualism Origins and Organismal Characteristics</h1>
@@ -444,7 +441,7 @@ src="images/104466995_10224587592503762_5668751840803121386_o.jpg" />
 <div class="col-sm-6">
 <p><a href = "https://www.frontiersin.org/articles/10.3389/fmars.2021.665780/full">
 <img src="images/GobyAnemonefishMutualismSociality.jpg" /></p>
-<p><img src="images/Slide1s.png" /> </a></p>
+<p><img src="images/slide1s.png" /> </a></p>
 </div>
 <div class="col-sm-6">
 <p>Animals often live in groups temporarily or permanently for a variety
@@ -501,7 +498,7 @@ Patterson</a></p>
 <div class="row" style="padding-top: 30px;">
 <div class="col-sm-6">
 <p><a href = "https://www.tandfonline.com/doi/full/10.1080/19425120.2016.1265031">
-<img src="images/Slide2s.png" /> </a></p>
+<img src="images/slide2s.png" /> </a></p>
 <p><a href = "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0139444">
 <img
 src="images/Culverts.%20picture%20taken%20by%20seth%20patterson.jpg" />
@@ -554,7 +551,7 @@ src="images/bobcat_ranchito_data.jpg" /> </a></p>
 <p>None of this could be done without the helpful team of collaborators,
 colleagues, field assistants, boat captains, volunteers, reef station
 managers, local help, and our support system. Thank you everyone!</p>
-<p><img src="images/Slide4s.png" /></p>
+<p><img src="images/slide4s.png" /></p>
 </div>
 
 

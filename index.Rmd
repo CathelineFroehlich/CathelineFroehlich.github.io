@@ -20,7 +20,7 @@ output: html_document
 
 # **Welcome to Catheline Froehlich's Research**
 
-Catheline is a marine ecologist that uses ecological and evolutionary approaches to uncover the functional relationships between organisms and their environments. Catheline uses highly integrative approaches to study animal behaviour, fish coloration, environmental disturbances, global change, coral reefs, artificial reefs, mutualistic relationships, wildcat ecology, fish telemetry, and fisheries management. Follow her work and outreach on twitter @[gobyprincess](https://twitter.com/gobyprincess).
+Catheline is a marine ecologist that uses ecological and evolutionary approaches to uncover the functional relationships between organisms and their habitats. Catheline uses highly integrative approaches to study animal behaviour, fish coloration, environmental disturbances, global change, coral reefs, artificial reefs, mutualistic relationships, wildcat ecology, fish telemetry, and fisheries management. Follow her work and outreach on twitter @[gobyprincess](https://twitter.com/gobyprincess).
 
 Catheline is currently a **postdoc** at the University of Alabama and Dauphin Island Sea Lab. There, she studies the mutualisms between anemonefish and anemones with Ben Titus. She was awarded a **National Science Foundation Postdoctoral Research Fellowship in Biology**!
 
