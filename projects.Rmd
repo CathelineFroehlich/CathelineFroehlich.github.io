@@ -16,6 +16,26 @@ output:
 knitr::opts_chunk$set(message=FALSE,warning=FALSE, cache=TRUE)
 ```
 
+# Cleaning Symbioses
+
+<div class="row" style="padding-top: 30px;">
+<div class="col-sm-6">
+
+Many cleaner species exist globally and several use a combination of behaviors and live habitat to advertise their cleaning stations. Many cleaner species are in symbioses with the clients they clean as well as the live habitat they liv eon. How dependent species are on cleaning as their main food source varies by species and habitat. Environmental changes can also impact these cleaning symbioses. We take a closer look at animal behavior, dietary niche, environmental impacts, visual ecology, and community composition metrics to take a deep dive into better understanding these fascinating cleaning symbioses.
+
+Collaborators: Ben Titus, Korrie Brown, Eleanor Caves, Rachel Gunn, Alex Karnish
+
+
+</div>
+<div class="col-sm-6">
+
+<a href = "https://nsojournals.onlinelibrary.wiley.com/doi/abs/10.1111/oik.10553?campaign=woletoc">
+![](images/wholesymbiosis_v2.jpg)
+</a>
+
+</div>
+</div>
+
 # Mutualism Origins and Organismal Characteristics
 
 <div class="row" style="padding-top: 30px;">
@@ -29,9 +49,9 @@ knitr::opts_chunk$set(message=FALSE,warning=FALSE, cache=TRUE)
 </div>
 <div class="col-sm-6">
 
-Mutualisms are fascinating interactions between different organisms that likely have impacts on other aspects than merely survival. The ecology of these organisms can be tightly linked to their mutualisms and particular characteristics of each organism may be dictated by their mutualisms. Here we examine the potential for physical aspects of anemonefishes to be related to their anemone hosts. We also bring in some phylogenetic analyses to investigate such work.
+Mutualisms are fascinating interactions between different organisms that likely have impacts on other aspects than merely survival. The ecology of these organisms can be tightly linked to their mutualisms and particular characteristics of each organism may be dictated by their mutualisms. Here we examine the potential for physical aspects of anemonefishes to be related to their anemone hosts. We also bring in some phylogenetic analyses to investigate such work. 
 
-Collaborators: Benjamin M. Titus, Aurelien De Jode, Miranda Gibson, Tommaso Chiodo, Korrie Brown, Nina Luckas, Eleanor Caves, Jolyon Troscianko
+Collaborators: Benjamin M. Titus, Aurelien De Jode, Miranda Gibson, Tommaso Chiodo, Korrie Brown, Nina Luckas, Eleanor Caves, Jolyon Troscianko, Morgan Bennett-Smith
 
 </div>
 </div>
@@ -43,7 +63,7 @@ Collaborators: Benjamin M. Titus, Aurelien De Jode, Miranda Gibson, Tommaso Chio
 <div class="row" style="padding-top: 30px;">
 <div class="col-sm-6">
 
-As environmental disturbances become more intense and frequent, there are many changes that have been documented at population levels and ecosystem levels. We have yet to uncover how such disturbances affect the behaviour of animals, which is critical for the maintenance of many populations and could prove detrimental to particular species or even groups of species. Importantly, many animal relationships exist among different organisms, and mutualistic relationships are key for the maintenance of several ecosystems. Accordingly, changes to animal behaviours and ecological relationships may have flow-on effects on ecosystems. For my research, I aim to delve deeper into the potential environmental consequences on animal behaviour for mutualistic organisms. I use a combination of observational, manipulative, and phylogenetic approaches to link animal behaviour, habitat use, and environmental change for coral-dwelling gobies, which live exclusively in some of the corals most susceptible to coral damage and death from cyclones and bleaching-induced heatwaves. 
+As environmental disturbances become more intense and frequent, there are many changes that have been documented at population levels and ecosystem levels. We have yet to uncover how such disturbances affect the behaviour of animals, which is critical for the maintenance of many populations and could prove detrimental to particular species or even groups of species. Importantly, many animal relationships exist among different organisms, and mutualistic relationships are key for the maintenance of several ecosystems. Accordingly, changes to animal behaviours and ecological relationships may have flow-on effects on ecosystems. For my research, I aim to delve deeper into the potential environmental consequences on animal behaviour for mutualistic organisms. I use a combination of observational, manipulative, and phylogenetic approaches to link animal behaviour, habitat use, and environmental change for 1) coral-dwelling gobies, which live exclusively in some of the corals most susceptible to coral damage and death from cyclones and bleaching-induced heatwaves.
 
 Collaborators: Marian Y.L. Wong, O. Selma Klanten, Siobhan J. Heatwole, Martin L. Hing, Mark Dowton
 

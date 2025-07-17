@@ -13,7 +13,7 @@
 
 <title>Publications</title>
 
-<script src="site_libs/header-attrs-2.14/header-attrs.js"></script>
+<script src="site_libs/header-attrs-2.29/header-attrs.js"></script>
 <script src="site_libs/jquery-3.6.0/jquery-3.6.0.min.js"></script>
 <meta name="viewport" content="width=device-width, initial-scale=1" />
 <link href="site_libs/bootstrap-3.3.5/css/bootstrap.min.css" rel="stylesheet" />
@@ -29,14 +29,14 @@
        h6 {font-size: 12px;}
        code {color: inherit; background-color: rgba(0, 0, 0, 0.04);}
        pre:not([class]) { background-color: white }</style>
-<script src="site_libs/jqueryui-1.11.4/jquery-ui.min.js"></script>
+<script src="site_libs/jqueryui-1.13.2/jquery-ui.min.js"></script>
 <link href="site_libs/tocify-1.9.1/jquery.tocify.css" rel="stylesheet" />
 <script src="site_libs/tocify-1.9.1/jquery.tocify.js"></script>
 <script src="site_libs/navigation-1.1/tabsets.js"></script>
 <link href="site_libs/highlightjs-9.12.0/default.css" rel="stylesheet" />
 <script src="site_libs/highlightjs-9.12.0/highlight.js"></script>
-<link href="site_libs/font-awesome-5.1.0/css/all.css" rel="stylesheet" />
-<link href="site_libs/font-awesome-5.1.0/css/v4-shims.css" rel="stylesheet" />
+<link href="site_libs/font-awesome-6.5.2/css/all.min.css" rel="stylesheet" />
+<link href="site_libs/font-awesome-6.5.2/css/v4-shims.min.css" rel="stylesheet" />
 
 <style type="text/css">
   code{white-space: pre-wrap;}
@@ -146,11 +146,15 @@ $(document).ready(function () {
     href = "index.html";
   var menuAnchor = $('a[href="' + href + '"]');
 
-  // mark it active
-  menuAnchor.tab('show');
-
-  // if it's got a parent navbar menu mark it active as well
-  menuAnchor.closest('li.dropdown').addClass('active');
+  // mark the anchor link active (and if it's in a dropdown, also mark that active)
+  var dropdown = menuAnchor.closest('li.dropdown');
+  if (window.bootstrap) { // Bootstrap 4+
+    menuAnchor.addClass('active');
+    dropdown.find('> .dropdown-toggle').addClass('active');
+  } else { // Bootstrap 3
+    menuAnchor.parent().addClass('active');
+    dropdown.addClass('active');
+  }
 
   // Navbar adjustments
   var navHeight = $(".navbar").first().height() + 15;
@@ -179,8 +183,8 @@ $(document).ready(function () {
   border-radius: 4px;
 }
 
-.tabset-dropdown > .nav-tabs > li.active:before {
-  content: "";
+.tabset-dropdown > .nav-tabs > li.active:before, .tabset-dropdown > .nav-tabs.nav-tabs-open:before {
+  content: "\e259";
   font-family: 'Glyphicons Halflings';
   display: inline-block;
   padding: 10px;
@@ -188,16 +192,9 @@ $(document).ready(function () {
 }
 
 .tabset-dropdown > .nav-tabs.nav-tabs-open > li.active:before {
-  content: "&#xe258;";
-  border: none;
-}
-
-.tabset-dropdown > .nav-tabs.nav-tabs-open:before {
-  content: "";
+  content: "\e258";
   font-family: 'Glyphicons Halflings';
-  display: inline-block;
-  padding: 10px;
-  border-right: 1px solid #ddd;
+  border: none;
 }
 
 .tabset-dropdown > .nav-tabs > li.active {
@@ -378,21 +375,30 @@ div.tocify {
 <p><img src="images/secondbanner.jpg" /></p>
 <div id="academic-publications" class="section level1">
 <h1>Academic Publications</h1>
-<p>19_ Bennett-Smith, M.F., Froehlich, C.Y.M., Vizer, L.F., Buston, P.M.
-Submitted. Selective tolerance of some fish by Christmas Tree Worms
-reveals first-known positive symbiosis between fish and polychaetes.</p>
-<p>18_ Froehlich, C.Y.M., Caves, E.M., Troscianko, J., Gibson, M.,
+<p>21_Froehlich, C.Y.M., Kirby, R.L., Greaves, S., Heatwole, S.J.,
+Klanten, O.S., Hing, M., Wong, M.Y.L. In prep. Population genomics and
+ecological losses highlight the vulnerability of coral-dwelling gobies
+to climatic disturbances.</p>
+<p>20_ Froehlich, C.Y.M., Caves, E.M., Troscianko, J., Gibson, M.,
 Chiodo, T., De Jode, A., Brown, K., Luckas, N., Titus, B.M. Under
 consideration. The ecology of clownfish color patterns.</p>
-<p>17_ Hildebrandt, C.A., Froehlich, C.Y.M., Klanten, O.S., Wong, M.Y.L.
+<p>19_ Hildebrandt, C.A., Froehlich, C.Y.M., Klanten, O.S., Wong, M.Y.L.
 Submitted. Goby spotting: an updated guide to cryctic coral-dwelling
 gobies (genus Gobiodon) in the Indo-Pacific Region.</p>
-<p>16_ Chiodo, T., De Jode, A., Quattrini, A., Gibson, M.K., Froehlich,
+<p>18_ Chiodo, T., De Jode, A., Quattrini, A., Gibson, M.K., Froehlich,
 C.Y.M., Huang, D., Fuji, T., Yanagi, K., Reimer, J., Scott, A.,
 Rodriguez, E., Titus, B.M. In review. Nemo knows: clownfishes
 differentiate cryptic host species across fine and broad geographic
 scales and reveal a potential adaptive radiation in the
 clownfish-hosting sea anemones.</p>
+<p>17_ Hildebrandt, C.A., Froehlich, C.Y.M., Klanten, O.S., Wong, M.Y.L.
+In press. Complex Residences and Sociality: How Coral Structure and
+Social Environment Influence Occupation Patterns in Gobiodon in Aquaria.
+Ecology and Evolution.</p>
+<p>16_ Bennett-Smith, M.F., Froehlich, C.Y.M., Vizer, L.F., Buston, P.M.
+In press. Selective tolerance of some fish by Christmas Tree Worms
+reveals first-known positive symbiosis between fish and polychaetes.
+Symbiosis.</p>
 <p><a
 href="https://lkcnhm.nus.edu.sg/wp-content/uploads/sites/11/2024/12/RBZ-2024-0036.pdf">15.
 Hildebrandt, C.A., Froehlich, C.Y.M., Brodenicke, O., Klanten, O.S.,
