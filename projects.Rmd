@@ -10,7 +10,7 @@ output:
     #code_folding: hide
 ---
 
-![](images/slide3s.png)
+![](images/slide3ss.jpg)
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(message=FALSE,warning=FALSE, cache=TRUE)
@@ -103,7 +103,7 @@ Collaborators: Marian Y.L. Wong, O. Selma Klanten, Siobhan J. Heatwole, Martin L
 <a href = "https://www.frontiersin.org/articles/10.3389/fmars.2021.665780/full"> 
 ![](images/GobyAnemonefishMutualismSociality.jpg)
 
-![](images/slide1s.png)
+![](images/slide1ss.jpg)
 </a>
 
 </div>
@@ -146,7 +146,7 @@ Collaborators: Richard J. Kline, Andres Garcia, Carlos E. Cintra-Buenrostro, Ada
 <div class="col-sm-6">
 
 <a href = "https://www.tandfonline.com/doi/full/10.1080/19425120.2016.1265031"> 
-![](images/slide2s.png)
+![](images/slide2ss.jpg)
  </a>
  
  <a href = "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0139444"> 
@@ -170,4 +170,4 @@ Collaborators: Richard J. Kline, Andres Garcia, Carlos E. Cintra-Buenrostro, Ada
 
 None of this could be done without the helpful team of collaborators, colleagues, field assistants, boat captains, volunteers, reef station managers, local help, and our support system. Thank you everyone!
 
-![](images/slide4s.png)
+![](images/slide4ss.jpg)
