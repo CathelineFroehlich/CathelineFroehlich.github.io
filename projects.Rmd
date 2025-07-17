@@ -16,7 +16,7 @@ output:
 knitr::opts_chunk$set(message=FALSE,warning=FALSE, cache=TRUE)
 ```
 
-# Cleaning Symbioses
+# Ecology of Cleaning Symbioses
 
 <div class="row" style="padding-top: 30px;">
 <div class="col-sm-6">
@@ -33,6 +33,8 @@ Collaborators: Ben Titus, Korrie Brown, Eleanor Caves, Rachel Gunn, Alex Karnish
 ![](images/wholesymbiosis_v2.jpg)
 </a>
 
+![](images/P5191407.jpg)
+![](images/P5191414.jpg)
 </div>
 </div>
 
