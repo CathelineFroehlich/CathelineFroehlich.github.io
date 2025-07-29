@@ -19,15 +19,15 @@ knitr::opts_chunk$set(message=FALSE,warning=FALSE, cache=TRUE)
 
 21_Froehlich, C.Y.M., Kirby, R.L., Greaves, S., Heatwole, S.J., Klanten, O.S., Hing, M., Wong, M.Y.L. In prep. Population genomics and ecological losses highlight the vulnerability of coral-dwelling gobies to climatic disturbances.
 
-20_ Froehlich, C.Y.M., Caves, E.M., Troscianko, J., Gibson, M., Chiodo, T., De Jode, A., Brown, K., Luckas, N., Titus, B.M. Under consideration. The ecology of clownfish color patterns.
+20_ Froehlich, C.Y.M., Caves, E.M., Troscianko, J., Gibson, M., Chiodo, T., De Jode, A., Brown, K., Luckas, N., Titus, B.M. Under review. The ecology of clownfish color patterns.
 
-19_ Hildebrandt, C.A., Froehlich, C.Y.M., Klanten, O.S., Wong, M.Y.L. Submitted. Goby spotting: an updated guide to cryctic coral-dwelling gobies (genus Gobiodon) in the Indo-Pacific Region.
+19_ Hildebrandt, C.A., Froehlich, C.Y.M., Klanten, O.S., Wong, M.Y.L. Under review. Goby spotting: an updated guide to cryctic coral-dwelling gobies (genus Gobiodon) in the Indo-Pacific Region.
 
-18_ Chiodo, T., De Jode, A., Quattrini, A., Gibson, M.K., Froehlich, C.Y.M., Huang, D., Fuji, T., Yanagi, K., Reimer, J., Scott, A., Rodriguez, E., Titus, B.M. In review. Nemo knows: clownfishes differentiate cryptic host species across fine and broad geographic scales and reveal a potential adaptive radiation in the clownfish-hosting sea anemones.
+18_ Chiodo, T., De Jode, A., Quattrini, A., Gibson, M.K., Froehlich, C.Y.M., Huang, D., Fuji, T., Yanagi, K., Reimer, J., Scott, A., Rodriguez, E., Titus, B.M. Under review. Nemo knows: clownfishes differentiate cryptic host species across fine and broad geographic scales and reveal a potential adaptive radiation in the clownfish-hosting sea anemones.
 
-17_ Hildebrandt, C.A., Froehlich, C.Y.M., Klanten, O.S., Wong, M.Y.L. In press. Complex Residences and Sociality: How Coral Structure and Social Environment Influence Occupation Patterns in Gobiodon in Aquaria. Ecology and Evolution.
+[17. Hildebrandt, C.A., Froehlich, C.Y.M., Klanten, O.S., Wong, M.Y.L. 2025. Complex Residences and Sociality: How Coral Structure and Social Environment Influence Occupation Patterns in Gobiodon in Aquaria. Ecology and Evolution. 15(8): e71887. doi: 10.1002/ece3.71887.](https://onlinelibrary.wiley.com/doi/10.1002/ece3.71887)
 
-16_ Bennett-Smith, M.F., Froehlich, C.Y.M., Vizer, L.F., Buston, P.M. In press. Selective tolerance of some fish by Christmas Tree Worms reveals first-known positive symbiosis between fish and polychaetes. Symbiosis.
+[16. Bennett-Smith, M.F., Froehlich, C.Y.M., Vizer, L.F., Buston, P.M. 2025. Selective tolerance of some fish by Christmas Tree Worms reveals first-known positive symbiosis between fish and polychaetes. Symbiosis.doi: 10.1007/s13199-025-01067-w.](https://link.springer.com/article/10.1007/s13199-025-01067-w#citeas)
 
 [15. Hildebrandt, C.A., Froehlich, C.Y.M., Brodenicke, O., Klanten, O.S., Moller, P.R., Wong, M.Y.L. 2024. Two new species of Gobiodon (Teleostei: Gobiidae) from the Indo-Pacific, with notes on South Pacific and Indian Ocean populations of Gobiodon spadix. Raffles Bulletin of Zoology. 72:488-510. doi: 10.26107/RBZ-2024-0036.](https://lkcnhm.nus.edu.sg/wp-content/uploads/sites/11/2024/12/RBZ-2024-0036.pdf)
 
