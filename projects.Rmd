@@ -10,7 +10,8 @@ output:
     #code_folding: hide
 ---
 
-![](images/slide3ss.jpg)
+
+![](images/slide3ss_compressed.jpg){width=100%}
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(message=FALSE,warning=FALSE, cache=TRUE)
@@ -30,7 +31,7 @@ Collaborators: Ben Titus, Korrie Brown, Eleanor Caves, Rachel Gunn, Alex Karnish
 <div class="col-sm-6">
 
 <a href = "https://nsojournals.onlinelibrary.wiley.com/doi/abs/10.1111/oik.10553?campaign=woletoc">
-![](images/wholesymbiosis_v2.jpg)
+![](images/wholesymbiosis_v2_compressed.jpg)
 </a>
 
 
@@ -45,9 +46,9 @@ Collaborators: Ben Titus, Korrie Brown, Eleanor Caves, Rachel Gunn, Alex Karnish
 <div class="row" style="padding-top: 30px;">
 <div class="col-sm-6">
 
-![](images/278022947_10229423608201132_718196840382747213_n.jpg)
+![](images/278022947_10229423608201132_718196840382747213_n_compressed.jpg)
 
-![](images/DSC01627.jpg)
+![](images/DSC01627_compressed.jpg)
 </a>
 
 </div>
@@ -75,21 +76,21 @@ Collaborators: Marian Y.L. Wong, O. Selma Klanten, Siobhan J. Heatwole, Martin L
 </div>
 <div class="col-sm-6">
 
-![](images/DNAExtract_TaggedGoby.jpg)
+![](images/DNAExtract_TaggedGoby_compressed.jpg)
 
 <a href = "https://www.nature.com/articles/s41598-021-95778-x#article-info">
-![](images/LI2014568Goby_Figures_CoralReID_v10_Fig1.png)
+![](images/LI2014568Goby_Figures_CoralReID_v10_Fig1_compressed.jpg)
 
 
 </a>
 
 <a href = "https://www.sciencedirect.com/science/article/pii/S0003347222001786?dgcid=author">
-![](images/104466995_10224587592503762_5668751840803121386_o.jpg)
+![](images/104466995_10224587592503762_5668751840803121386_o_compressed.jpg)
 </a>
 
 
 <a href = "https://onlinelibrary.wiley.com/doi/10.1002/ece3.10209">
-![](images/GobyHost_LI201456820_GraphicalAbstract_v5.jpg)
+![](images/GobyHost_LI201456820_GraphicalAbstract_v5_compressed.jpg)
 </a>
 
 </div>
@@ -101,9 +102,9 @@ Collaborators: Marian Y.L. Wong, O. Selma Klanten, Siobhan J. Heatwole, Martin L
 <div class="col-sm-6">
 
 <a href = "https://www.frontiersin.org/articles/10.3389/fmars.2021.665780/full"> 
-![](images/GobyAnemonefishMutualismSociality.jpg)
+![](images/GobyAnemonefishMutualismSociality_compressed.jpg)
 
-![](images/slide1ss.jpg)
+![](images/slide1ss_compressed.jpg)
 </a>
 
 </div>
@@ -129,11 +130,11 @@ Collaborators: Richard J. Kline, Andres Garcia, Carlos E. Cintra-Buenrostro, Ada
 <div class="col-sm-6">
 
  <a href = "https://www.sciencedirect.com/science/article/pii/S2352485521003285"> 
- ![](images/10014876_10152148903631794_1171996106372918196_o.jpg)
+ ![](images/10014876_10152148903631794_1171996106372918196_o_compressed.jpg)
  </a>
 
 <a href = "https://www.sciencedirect.com/science/article/abs/pii/S0165783621001715?dgcid=rss_sd_all"> 
-![](images/54ea572b32a96image.jpg)
+![](images/54ea572b32a96image_compressed.jpg)
 </a>
 [Images by Seth Patterson](https://www.flickr.com/photos/spatterd/)
 
@@ -146,11 +147,11 @@ Collaborators: Richard J. Kline, Andres Garcia, Carlos E. Cintra-Buenrostro, Ada
 <div class="col-sm-6">
 
 <a href = "https://www.tandfonline.com/doi/full/10.1080/19425120.2016.1265031"> 
-![](images/slide2ss.jpg)
+![](images/slide2ss_compressed.jpg)
  </a>
  
  <a href = "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0139444"> 
-![](images/Culverts. picture taken by seth patterson.jpg)
+![](images/Culverts. picture taken by seth patterson_compressed.jpg)
 </a>
 [Image by Seth Patterson](https://www.flickr.com/photos/spatterd/)
 
@@ -170,4 +171,4 @@ Collaborators: Richard J. Kline, Andres Garcia, Carlos E. Cintra-Buenrostro, Ada
 
 None of this could be done without the helpful team of collaborators, colleagues, field assistants, boat captains, volunteers, reef station managers, local help, and our support system. Thank you everyone!
 
-![](images/slide4ss.jpg)
+![](images/slide4ss_compressed.jpg)

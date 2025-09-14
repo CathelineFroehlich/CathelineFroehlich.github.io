@@ -2,6 +2,6 @@
 title: "Catheline Froehlich CV"
 output: html_document
 ---
-![](images/secondbanner.jpg)
+![](images/secondbanner_compressed.jpg)
 
 <iframe src="./folder/CathelineFroehlichAcademicCV.pdf" width="100%" height="850px"/>

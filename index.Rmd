@@ -3,7 +3,7 @@ title: "Catheline Froehlich Research"
 output: html_document
 ---
 
-![](images/banner.jpg)
+![](images/banner_compressed.jpg)
 <style type="text/css">
 .title {
   display: none;
@@ -30,8 +30,8 @@ Catheline co-founded a few **podcasts** over the years, and most recently [Catch
 <div class="col-sm-6">
 
 
-![](images/23012020P1230143-rotated.jpg)
+![](images/23012020P1230143-rotated_compressed.jpg)
 </a>
 </div>
 
-![](images/IntroPageSlide.jpg)
+![](images/IntroPageSlide_compressed.jpg)

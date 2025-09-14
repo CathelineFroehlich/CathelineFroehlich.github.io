@@ -1,0 +1,33 @@
+library(magick)
+
+img <- image_read("images/slide3ss.jpg")
+
+# Save smaller file (e.g., quality 70%)
+image_write(img, "images/slide3ss_compressed.jpg", quality = 70)
+
+
+
+
+OR FOR ALL IN FOLDER for jpg
+
+library(magick)
+
+files <- list.files("images", pattern = "\\.jpg$", full.names = TRUE)
+
+for (f in files) {
+  img <- image_read(f)
+  new_name <- sub("\\.jpg$", "_compressed.jpg", f)
+  image_write(img, new_name, quality = 50)
+}
+
+
+FOR ALL IN FOLDER for png to convert to jpg because png don't by themselves can't be compressed
+library(magick)
+
+files <- list.files("images", pattern = "\\.png$", full.names = TRUE)
+
+for (f in files) {
+  img <- image_read(f)
+  new_name <- sub("\\.png$", "_compressed.jpg", f)
+  image_write(img, new_name, format = "jpg", quality = 50)
+}

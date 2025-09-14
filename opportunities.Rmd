@@ -3,7 +3,7 @@ title: "Opportunities with Catheline Froehlich"
 output: html_document
 ---
 
-![](images/ScientificDiveOpportunity-LI2022.jpg)
+![](images/ScientificDiveOpportunity-LI2022_compressed.jpg)
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(message=FALSE,warning=FALSE, cache=TRUE)

@@ -9,7 +9,7 @@ output:
     toc_depth: 1
     #code_folding: hide
 ---
-![](images/secondbanner.jpg)
+![](images/secondbanner_compressed.jpg)
 
 
 ```{r setup, include=FALSE}

@@ -9,7 +9,7 @@ output:
     toc_depth: 1
     #code_folding: hide
 ---
-![](images/secondbanner.jpg)
+![](images/secondbanner_compressed.jpg)
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(message=FALSE,warning=FALSE, cache=TRUE)
@@ -22,7 +22,7 @@ _______________________________________________________________________
 Read more:
 https://theconversation.com/photos-from-the-field-why-losing-these-tiny-loyal-fish-to-climate-change-spells-disaster-for-coral-167119
 
-<a href = "https://theconversation.com/photos-from-the-field-why-losing-these-tiny-loyal-fish-to-climate-change-spells-disaster-for-coral-167119"> ![](images/TheConversation07092021.png)
+<a href = "https://theconversation.com/photos-from-the-field-why-losing-these-tiny-loyal-fish-to-climate-change-spells-disaster-for-coral-167119"> ![](images/TheConversation07092021_compressed.jpg)
 </a>
 _______________________________________________________________________
 
@@ -31,7 +31,7 @@ _______________________________________________________________________
 Read more:
 https://lirrf.org/posts/why-do-gobies-and-corals-live-together/
 
-<a href = "https://lirrf.org/posts/why-do-gobies-and-corals-live-together/"> ![](images/DSCN0514-filter.jpg)
+<a href = "https://lirrf.org/posts/why-do-gobies-and-corals-live-together/"> ![](images/DSCN0514-filter_compressed.jpg)
 </a>
 _______________________________________________________________________
 
@@ -40,7 +40,7 @@ _______________________________________________________________________
 Read more:
 https://lirrf.org/posts/corals-and-goby-fishes-showing-signs-of-recovery-at-lizard-island/
 
-<a href = "https://lirrf.org/posts/corals-and-goby-fishes-showing-signs-of-recovery-at-lizard-island/"> ![](images/27012020DSCN7656.jpg)
+<a href = "https://lirrf.org/posts/corals-and-goby-fishes-showing-signs-of-recovery-at-lizard-island/"> ![](images/27012020DSCN7656_compressed.jpg)
 </a>
 _______________________________________________________________________
 
@@ -51,13 +51,13 @@ The declared, European-American has just scored the fellowship of a lifetime. Ca
 Read more:
 https://www.uow.edu.au/media/2019/from-texas-to-the-reef-phd-student-lands-prestigious-fellowship.php
 
-<a href = "https://www.uow.edu.au/media/2019/from-texas-to-the-reef-phd-student-lands-prestigious-fellowship.php"> ![](images/Catheline Froehlich.pdj..14.03.19.002.jpg)
+<a href = "https://www.uow.edu.au/media/2019/from-texas-to-the-reef-phd-student-lands-prestigious-fellowship.php"> ![](images/Catheline Froehlich.pdj..14.03.19.002_compressed.jpg)
 </a>
 _______________________________________________________________________
 
 # Showcasing UTRGV Research and Diving in Texas Magazine
 
-![](images/16251724_10212582300898975_7618050145826652918_o.jpg)
+![](images/16251724_10212582300898975_7618050145826652918_o_compressed.jpg)
 _______________________________________________________________________
 
 # Sea nursery: Man-made reef aimed at saving red snapper
@@ -66,7 +66,7 @@ _______________________________________________________________________
 Read more:
 https://myrgv.com/the-valley-morning-star/2017/07/13/sea-nursery-man-made-reef-aimed-at-saving-red-snapper/
 
-<a href = "https://myrgv.com/the-valley-morning-star/2017/07/13/sea-nursery-man-made-reef-aimed-at-saving-red-snapper/"> ![](images/DeployRGVReefGuy.jpg)
+<a href = "https://myrgv.com/the-valley-morning-star/2017/07/13/sea-nursery-man-made-reef-aimed-at-saving-red-snapper/"> ![](images/DeployRGVReefGuy_compressed.jpg)
 </a>
 _______________________________________________________________________
 
@@ -79,5 +79,5 @@ Read more:
 https://www.utrgvrider.com/a-view-to-the-world-in-downtown-brownsville/
 
 <a href = "https://www.utrgvrider.com/a-view-to-the-world-in-downtown-brownsville/
-"> ![](images/BIFFlogo2016event.jpg)
+"> ![](images/BIFFlogo2016event_compressed.jpg)
 </a>
