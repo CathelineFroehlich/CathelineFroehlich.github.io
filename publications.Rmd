@@ -23,7 +23,7 @@ knitr::opts_chunk$set(message=FALSE,warning=FALSE, cache=TRUE)
 
 19_ Hildebrandt, C.A., Froehlich, C.Y.M., Klanten, O.S., Wong, M.Y.L. Under review. Goby spotting: an updated guide to cryctic coral-dwelling gobies (genus Gobiodon) in the Indo-Pacific Region.
 
-18_ Chiodo, T., De Jode, A., Quattrini, A., Gibson, M.K., Froehlich, C.Y.M., Huang, D., Fuji, T., Yanagi, K., Reimer, J., Scott, A., Rodriguez, E., Titus, B.M. Under review. Nemo knows: clownfishes differentiate cryptic host species across fine and broad geographic scales and reveal a potential adaptive radiation in the clownfish-hosting sea anemones.
+[18_ Chiodo, T., De Jode, A., Quattrini, A., Gibson, M.K., Froehlich, C.Y.M., Huang, D., Fuji, T., Yanagi, K., Reimer, J., Scott, A., Rodriguez, E., Titus, B.M. Under review. Nemo knows: clownfishes differentiate cryptic host species across fine and broad geographic scales and reveal a potential adaptive radiation in the clownfish-hosting sea anemones.](https://www.biorxiv.org/content/10.1101/2024.11.15.623784v1)
 
 [17. Hildebrandt, C.A., Froehlich, C.Y.M., Klanten, O.S., Wong, M.Y.L. 2025. Complex Residences and Sociality: How Coral Structure and Social Environment Influence Occupation Patterns in Gobiodon in Aquaria. Ecology and Evolution. 15(8): e71887. doi: 10.1002/ece3.71887.](https://onlinelibrary.wiley.com/doi/10.1002/ece3.71887)
 
