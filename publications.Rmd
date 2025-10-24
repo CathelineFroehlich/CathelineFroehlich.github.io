@@ -35,7 +35,7 @@ knitr::opts_chunk$set(message=FALSE,warning=FALSE, cache=TRUE)
 
 [13. EDITOR'S CHOICE: Froehlich. C.Y.M., Heatwole, S.J., Klanten, O.S., Hing, M.L., Hildebrandt, C.A., Smith, J.O., Wong, M.Y.L. 2024. Multi-level framework to assess social variation in response to ecological and social factors: modeled with coral gobies. Oikos. doi: 10.1111/oik.10669.](https://nsojournals.onlinelibrary.wiley.com/doi/10.1111/oik.10669)
 
-[12. Kirby, R., Froehlich, C.Y.M., Greaves, S., Klanten, O.S., Wong, M.Y.L. Lack of population structure in an important fishery species of mud shrimp, Trypaea australiensis. Fish Manag Ecol. 00:e12682. doi: 10.1111/fme.12682.](https://onlinelibrary.wiley.com/doi/full/10.1111/fme.12682)
+[12. Kirby, R., Froehlich, C.Y.M., Greaves, S., Klanten, O.S., Wong, M.Y.L. 2024. Lack of population structure in an important fishery species of mud shrimp, Trypaea australiensis. Fish Manag Ecol. 00:e12682. doi: 10.1111/fme.12682.](https://onlinelibrary.wiley.com/doi/full/10.1111/fme.12682)
 
 [11. Froehlich, C.Y.M., Klanten, O.S., Hing, M.L., Dowton, M., and Wong, M.Y.L. 2023. Delayed recovery and host specialization may spell disaster for coral-fish mutualism. Ecology and Evolution. 13(6): e10209. doi: 10.1002/ece3.10209.](https://onlinelibrary.wiley.com/doi/10.1002/ece3.10209)
 
