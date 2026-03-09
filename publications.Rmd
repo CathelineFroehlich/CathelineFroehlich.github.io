@@ -18,6 +18,8 @@ knitr::opts_chunk$set(message=FALSE,warning=FALSE, cache=TRUE)
 
 # Academic Publications
 
+23_ Froehlich, C., Titus B. In review. The ecology of the Saddleback Anemonefish, Amphiprion polymnus, reveals it is a host generalist species across multiple ecological axes.
+
 22_ Bennett-Smith, M.F. McNamee, E., Masih, S., Lis, T., Murchison, M., Cinelli, A., Bhaumik, T., Froehlich, C.Y.M., DeLoach, A., DeLoach, N., Martinez, N., Buston, P., Francis, R., Scavo Lord, K. In review. Novel symbioses between reef fishes and serpulid polychaetes in the Caribbean Sea.
 
 [21_ Froehlich, C.Y.M., Kirby, R.L., Greaves, S., Heatwole, S.J., Klanten, O.S., Hing, M., Wong, M.Y.L. In review. Population genomics and ecological losses highlight the vulnerability of coral-dwelling gobies to climatic disturbances.](https://www.biorxiv.org/content/10.1101/2025.08.28.672959v1)
