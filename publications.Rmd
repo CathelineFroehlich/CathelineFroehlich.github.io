@@ -20,13 +20,13 @@ knitr::opts_chunk$set(message=FALSE,warning=FALSE, cache=TRUE)
 
 23_ Froehlich, C., Titus B. In review. The ecology of the Saddleback Anemonefish, Amphiprion polymnus, reveals it is a host generalist species across multiple ecological axes.
 
-22_ Bennett-Smith, M.F. McNamee, E., Masih, S., Lis, T., Murchison, M., Cinelli, A., Bhaumik, T., Froehlich, C.Y.M., DeLoach, A., DeLoach, N., Martinez, N., Buston, P., Francis, R., Scavo Lord, K. In review. Novel symbioses between reef fishes and serpulid polychaetes in the Caribbean Sea.
+[22_ Froehlich, C.Y.M., Kirby, R.L., Greaves, S., Heatwole, S.J., Klanten, O.S., Hing, M., Wong, M.Y.L. In review. Population genomics and ecological losses highlight the vulnerability of coral-dwelling gobies to climatic disturbances.](https://www.biorxiv.org/content/10.1101/2025.08.28.672959v1)
 
-[21_ Froehlich, C.Y.M., Kirby, R.L., Greaves, S., Heatwole, S.J., Klanten, O.S., Hing, M., Wong, M.Y.L. In review. Population genomics and ecological losses highlight the vulnerability of coral-dwelling gobies to climatic disturbances.](https://www.biorxiv.org/content/10.1101/2025.08.28.672959v1)
+[21_ Froehlich, C.Y.M., Caves, E.M., Troscianko, J., Gibson, M., Chiodo, T., De Jode, A., Brown, K., Luckas, N., Titus, B.M. In review. The ecology of clownfish color patterns.](https://www.biorxiv.org/content/10.1101/2025.08.27.672698v1)
 
-[20_ Froehlich, C.Y.M., Caves, E.M., Troscianko, J., Gibson, M., Chiodo, T., De Jode, A., Brown, K., Luckas, N., Titus, B.M. In review. The ecology of clownfish color patterns.](https://www.biorxiv.org/content/10.1101/2025.08.27.672698v1)
+[20_ Bennett-Smith, M.F. McNamee, E., Masih, S., Lis, T., Murchison, M., Cinelli, A., Bhaumik, T., Froehlich, C.Y.M., DeLoach, A., DeLoach, N., Martinez, N., Buston, P., Francis, R., Scavo Lord, K. In review. Novel symbioses between reef fishes and serpulid polychaetes in the Caribbean Sea.](https://link.springer.com/article/10.1007/s13199-026-01143-9)
 
-[19_ Chiodo, T., De Jode, A., Quattrini, A., Gibson, M.K., Froehlich, C.Y.M., Huang, D., Fuji, T., Yanagi, K., Reimer, J., Scott, A., Rodriguez, E., Titus, B.M. Accepted. Nemo knows: clownfishes differentiate cryptic host species across fine and broad geographic scales and reveal a potential adaptive radiation in the clownfish-hosting sea anemones. Sytematic Biology.](https://www.biorxiv.org/content/10.1101/2024.11.15.623784v1)
+[19_ Chiodo, T., De Jode, A., Quattrini, A., Gibson, M.K., Froehlich, C.Y.M., Huang, D., Fuji, T., Yanagi, K., Reimer, J., Scott, A., Rodriguez, E., Titus, B.M. 2026. Nemo knows: clownfishes differentiate cryptic host species across fine and broad geographic scales and reveal a potential adaptive radiation in the clownfish-hosting sea anemones. Sytematic Biology.](https://www.biorxiv.org/content/10.1101/2024.11.15.623784v1)
 
 [18. Hildebrandt, C.A., Froehlich, C.Y.M., Klanten, O.S., Wong, M.Y.L. 2025. Goby spotting: an updated guide to coral gobies (genus Gobiodon) in the Indo-Pacific Region. Zootaxa. 5723(2): 151-188. doi: 10.11646/zootaxa.5723.2.1.](https://mapress.com/zt/article/view/zootaxa.5723.2.1)
 
