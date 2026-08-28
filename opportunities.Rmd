@@ -1,5 +1,5 @@
 ---
-title: "Opportunities with Catheline Froehlich"
+title: "Opportunities in our Lab"
 output: html_document
 ---
 
@@ -8,7 +8,15 @@ output: html_document
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(message=FALSE,warning=FALSE, cache=TRUE)
 ```
-# Lizard Island Scientific Diving Assistant
+# Prospective Students
+
+Please reach out to Dr. Froehlich if you are interested in joining the lab. There are opportunities for undergraduate and graduate students.
+
+<div style="text-align: center;">
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/YxurQIEsvjI?si=dtt5A1guwMudIPBc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
+
+# Previous Opportunity: Lizard Island Scientific Diving Assistant
 
 
 ***Exciting scientific diving opportunity***

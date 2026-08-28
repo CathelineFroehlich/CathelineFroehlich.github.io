@@ -1,7 +1,7 @@
 ---
-title: "Catheline Froehlich CV"
+title: "Froehlich CV"
 output: html_document
 ---
-![](images/secondbanner_compressed.jpg)
+![](images/banner_compressed.jpg)
 
-<iframe src="./folder/CathelineFroehlichAcademicCV_v2.pdf" width="100%" height="850px"></iframe>
+<iframe src="./folder/CathelineFroehlichAcademicCV_v3.pdf" width="100%" height="850px"></iframe>
