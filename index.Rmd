@@ -3,7 +3,7 @@ title: "Welcome to our Fish Connections Lab"
 output: html_document
 ---
 PI: Dr. Catheline Froehlich
-![](images/P5140907.jpg)
+![](images/banner_compressed.jpg)
 
 We use **ecological and evolutionary approaches** to uncover the functional relationships between organisms, their behaviors, phenotypic traits, and environments. We primarily study marine mutualisms between inverts and fishes, but we also dabble in other types of **species interactions in the marine world**. 
 
