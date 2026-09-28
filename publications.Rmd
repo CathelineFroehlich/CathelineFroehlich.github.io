@@ -26,7 +26,7 @@ knitr::opts_chunk$set(message=FALSE,warning=FALSE, cache=TRUE)
 
 [21_ Froehlich, C.Y.M., Kirby, R.L., Greaves, S., Heatwole, S.J., Klanten, O.S., Hing, M., Wong, M.Y.L. 2026. Population genomics and ecological losses highlight the vulnerability of coral-dwelling gobies to climatic disturbances. Molecular Ecology. 35:e70455. doi: 10.1111/mec.70455.](https://onlinelibrary.wiley.com/doi/10.1111/mec.70455)
 
-[20_ Bennett-Smith, M.F. McNamee, E., Masih, S., Lis, T., Murchison, M., Cinelli, A., Bhaumik, T., Froehlich, C.Y.M., DeLoach, A., DeLoach, N., Martinez, N., Buston, P., Francis, R., Scavo Lord, K. In review. Novel symbioses between reef fishes and serpulid polychaetes in the Caribbean Sea. Symbiosis. doi: 10.1007/s13199-026-01143-9.](https://link.springer.com/article/10.1007/s13199-026-01143-9)
+[20_ Bennett-Smith, M.F. McNamee, E., Masih, S., Lis, T., Murchison, M., Cinelli, A., Bhaumik, T., Froehlich, C.Y.M., DeLoach, A., DeLoach, N., Martinez, N., Buston, P., Francis, R., Scavo Lord, K. 2026. Novel symbioses between reef fishes and serpulid polychaetes in the Caribbean Sea. Symbiosis. doi: 10.1007/s13199-026-01143-9.](https://link.springer.com/article/10.1007/s13199-026-01143-9)
 
 [19_ Chiodo, T., De Jode, A., Quattrini, A., Gibson, M.K., Froehlich, C.Y.M., Huang, D., Fuji, T., Yanagi, K., Reimer, J., Scott, A., Rodriguez, E., Titus, B.M. 2026. Nemo knows: clownfishes differentiate cryptic host species across fine and broad geographic scales and reveal a potential adaptive radiation in the clownfish-hosting sea anemones. Sytematic Biology. 0(0):1–16. doi: 10.1093/sysbio/syag033.](https://www.biorxiv.org/content/10.1101/2024.11.15.623784v1)
 

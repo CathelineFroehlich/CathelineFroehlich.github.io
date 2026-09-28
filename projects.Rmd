@@ -54,13 +54,34 @@ Collaborators: Ben Titus, Korrie Brown, Eleanor Caves, Rachel Gunn, Alex Karnish
 </div>
 <div class="col-sm-6">
 
-Mutualisms are fascinating interactions between different organisms that likely have impacts on other aspects than merely survival. The ecology of these organisms can be tightly linked to their mutualisms and particular characteristics of each organism may be dictated by their mutualisms. Here we examine the potential for physical aspects of anemonefishes to be related to their anemone hosts. We also bring in some phylogenetic analyses to investigate such work. 
+Mutualisms are fascinating interactions between different organisms that likely have impacts on other aspects than merely survival. The ecology of these organisms can be tightly linked to their mutualisms and particular characteristics of each organism may be dictated by their mutualisms. Here we examine the potential for the morphology and ecology of anemonefishes to be related to their anemone hosts. We also bring in some phylogenetic analyses to investigate such work. 
 
 Collaborators: Benjamin M. Titus, Aurelien De Jode, Miranda Gibson, Tommaso Chiodo, Korrie Brown, Nina Luckas, Eleanor Caves, Jolyon Troscianko, Morgan Bennett-Smith
 
 </div>
 </div>
 
+
+
+# Discovering New Symbioses
+
+<div class="row" style="padding-top: 30px;">
+<div class="col-sm-6">
+
+Scientists have been studying species interactions for centuries, and yet new interactions continue to be observed. Next time you are on a coral reef and looking at a Christmas Tree Worm , check out the fish that interact with the worm! During a dive, we did just that and discovered that gobies and blennies will actually sit within and on top of Christmas Tree Worms without the worms retracting, it was fascinating! We've observed this in more than one worm species and around the globe (Papua New Guinea and Caribbean), which made us wonder what kind of symbiosis this is. Mutualistic? Commensal? Follow our research to learn more.
+
+Collaborators: Morgan Bennett-Smith
+
+
+</div>
+<div class="col-sm-6">
+
+<a href = "https://link.springer.com/article/10.1007/s13199-025-01067-w#citeas">
+![](images/fish-wormSymbioses.png)
+</a>
+
+</div>
+</div>
 
 
 # Linking Animal Behaviour, Mutualisms and Environmental Change
